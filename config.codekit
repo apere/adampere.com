@@ -3329,302 +3329,368 @@
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
-	"\/develp\/jade\/3d\/bathroom\/index.html": {
-		"fileType": 8192,
+	"\/develp\/jade\/3d\/bathroom\/index.jade": {
+		"compileDebug": 1,
+		"fileType": 512,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/develp\/jade\/3d\/bathroom\/index.html",
-		"outputAbbreviatedPath": "No Output Path",
+		"inputAbbreviatedPath": "\/develp\/jade\/3d\/bathroom\/index.jade",
+		"outputAbbreviatedPath": "\/develp\/jade\/3d\/bathroom\/index.html",
 		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0
 		},
-	"\/develp\/jade\/3d\/index.html": {
-		"fileType": 8192,
+	"\/develp\/jade\/3d\/index.jade": {
+		"compileDebug": 1,
+		"fileType": 512,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/develp\/jade\/3d\/index.html",
-		"outputAbbreviatedPath": "No Output Path",
+		"inputAbbreviatedPath": "\/develp\/jade\/3d\/index.jade",
+		"outputAbbreviatedPath": "\/develp\/jade\/3d\/index.html",
 		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0
 		},
-	"\/develp\/jade\/3d\/misc\/index.html": {
-		"fileType": 8192,
+	"\/develp\/jade\/3d\/misc\/index.jade": {
+		"compileDebug": 1,
+		"fileType": 512,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/develp\/jade\/3d\/misc\/index.html",
-		"outputAbbreviatedPath": "No Output Path",
+		"inputAbbreviatedPath": "\/develp\/jade\/3d\/misc\/index.jade",
+		"outputAbbreviatedPath": "\/develp\/jade\/3d\/misc\/index.html",
 		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0
 		},
-	"\/develp\/jade\/3d\/shape\/index.html": {
-		"fileType": 8192,
+	"\/develp\/jade\/3d\/shape\/index.jade": {
+		"compileDebug": 1,
+		"fileType": 512,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/develp\/jade\/3d\/shape\/index.html",
-		"outputAbbreviatedPath": "No Output Path",
+		"inputAbbreviatedPath": "\/develp\/jade\/3d\/shape\/index.jade",
+		"outputAbbreviatedPath": "\/develp\/jade\/3d\/shape\/index.html",
 		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0
 		},
-	"\/develp\/jade\/3d\/still\/index.html": {
-		"fileType": 8192,
+	"\/develp\/jade\/3d\/still\/index.jade": {
+		"compileDebug": 1,
+		"fileType": 512,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/develp\/jade\/3d\/still\/index.html",
-		"outputAbbreviatedPath": "No Output Path",
+		"inputAbbreviatedPath": "\/develp\/jade\/3d\/still\/index.jade",
+		"outputAbbreviatedPath": "\/develp\/jade\/3d\/still\/index.html",
 		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0
 		},
-	"\/develp\/jade\/about\/index.html": {
-		"fileType": 8192,
+	"\/develp\/jade\/about\/index.jade": {
+		"compileDebug": 1,
+		"fileType": 512,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/develp\/jade\/about\/index.html",
-		"outputAbbreviatedPath": "No Output Path",
+		"inputAbbreviatedPath": "\/develp\/jade\/about\/index.jade",
+		"outputAbbreviatedPath": "\/develp\/jade\/about\/index.html",
 		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0
 		},
-	"\/develp\/jade\/book\/index.html": {
-		"fileType": 8192,
+	"\/develp\/jade\/book\/index.jade": {
+		"compileDebug": 1,
+		"fileType": 512,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/develp\/jade\/book\/index.html",
-		"outputAbbreviatedPath": "No Output Path",
+		"inputAbbreviatedPath": "\/develp\/jade\/book\/index.jade",
+		"outputAbbreviatedPath": "\/develp\/jade\/book\/index.html",
 		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0
 		},
-	"\/develp\/jade\/book\/tub\/index.html": {
-		"fileType": 8192,
+	"\/develp\/jade\/book\/tub\/index.jade": {
+		"compileDebug": 1,
+		"fileType": 512,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/develp\/jade\/book\/tub\/index.html",
-		"outputAbbreviatedPath": "No Output Path",
+		"inputAbbreviatedPath": "\/develp\/jade\/book\/tub\/index.jade",
+		"outputAbbreviatedPath": "\/develp\/jade\/book\/tub\/index.html",
 		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0
 		},
-	"\/develp\/jade\/contact\/index.html": {
-		"fileType": 8192,
+	"\/develp\/jade\/contact\/index.jade": {
+		"compileDebug": 1,
+		"fileType": 512,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/develp\/jade\/contact\/index.html",
-		"outputAbbreviatedPath": "No Output Path",
+		"inputAbbreviatedPath": "\/develp\/jade\/contact\/index.jade",
+		"outputAbbreviatedPath": "\/develp\/jade\/contact\/index.html",
 		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0
 		},
-	"\/develp\/jade\/digi\/hand\/index.html": {
-		"fileType": 8192,
+	"\/develp\/jade\/digi\/hand\/index.jade": {
+		"compileDebug": 1,
+		"fileType": 512,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/develp\/jade\/digi\/hand\/index.html",
-		"outputAbbreviatedPath": "No Output Path",
+		"inputAbbreviatedPath": "\/develp\/jade\/digi\/hand\/index.jade",
+		"outputAbbreviatedPath": "\/develp\/jade\/digi\/hand\/index.html",
 		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0
 		},
-	"\/develp\/jade\/digi\/index.html": {
-		"fileType": 8192,
+	"\/develp\/jade\/digi\/index.jade": {
+		"compileDebug": 1,
+		"fileType": 512,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/develp\/jade\/digi\/index.html",
-		"outputAbbreviatedPath": "No Output Path",
+		"inputAbbreviatedPath": "\/develp\/jade\/digi\/index.jade",
+		"outputAbbreviatedPath": "\/develp\/jade\/digi\/index.html",
 		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0
 		},
-	"\/develp\/jade\/digi\/self\/index.html": {
-		"fileType": 8192,
+	"\/develp\/jade\/digi\/self\/index.jade": {
+		"compileDebug": 1,
+		"fileType": 512,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/develp\/jade\/digi\/self\/index.html",
-		"outputAbbreviatedPath": "No Output Path",
+		"inputAbbreviatedPath": "\/develp\/jade\/digi\/self\/index.jade",
+		"outputAbbreviatedPath": "\/develp\/jade\/digi\/self\/index.html",
 		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0
 		},
-	"\/develp\/jade\/digi\/time\/index.html": {
-		"fileType": 8192,
+	"\/develp\/jade\/digi\/time\/index.jade": {
+		"compileDebug": 1,
+		"fileType": 512,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/develp\/jade\/digi\/time\/index.html",
-		"outputAbbreviatedPath": "No Output Path",
+		"inputAbbreviatedPath": "\/develp\/jade\/digi\/time\/index.jade",
+		"outputAbbreviatedPath": "\/develp\/jade\/digi\/time\/index.html",
 		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0
 		},
-	"\/develp\/jade\/graphic\/calendar\/index.html": {
-		"fileType": 8192,
+	"\/develp\/jade\/graphic\/calendar\/index.jade": {
+		"compileDebug": 1,
+		"fileType": 512,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/develp\/jade\/graphic\/calendar\/index.html",
-		"outputAbbreviatedPath": "No Output Path",
+		"inputAbbreviatedPath": "\/develp\/jade\/graphic\/calendar\/index.jade",
+		"outputAbbreviatedPath": "\/develp\/jade\/graphic\/calendar\/index.html",
 		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0
 		},
-	"\/develp\/jade\/graphic\/characters\/index.html": {
-		"fileType": 8192,
+	"\/develp\/jade\/graphic\/characters\/index.jade": {
+		"compileDebug": 1,
+		"fileType": 512,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/develp\/jade\/graphic\/characters\/index.html",
-		"outputAbbreviatedPath": "No Output Path",
+		"inputAbbreviatedPath": "\/develp\/jade\/graphic\/characters\/index.jade",
+		"outputAbbreviatedPath": "\/develp\/jade\/graphic\/characters\/index.html",
 		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0
 		},
-	"\/develp\/jade\/graphic\/fizzle\/index.html": {
-		"fileType": 8192,
+	"\/develp\/jade\/graphic\/fizzle\/index.jade": {
+		"compileDebug": 1,
+		"fileType": 512,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/develp\/jade\/graphic\/fizzle\/index.html",
-		"outputAbbreviatedPath": "No Output Path",
+		"inputAbbreviatedPath": "\/develp\/jade\/graphic\/fizzle\/index.jade",
+		"outputAbbreviatedPath": "\/develp\/jade\/graphic\/fizzle\/index.html",
 		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0
 		},
-	"\/develp\/jade\/graphic\/fizzle\/site\/about.html": {
-		"fileType": 8192,
+	"\/develp\/jade\/graphic\/fizzle\/site\/about.jade": {
+		"compileDebug": 1,
+		"fileType": 512,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/develp\/jade\/graphic\/fizzle\/site\/about.html",
-		"outputAbbreviatedPath": "No Output Path",
+		"inputAbbreviatedPath": "\/develp\/jade\/graphic\/fizzle\/site\/about.jade",
+		"outputAbbreviatedPath": "\/develp\/jade\/graphic\/fizzle\/site\/about.html",
 		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0
 		},
-	"\/develp\/jade\/graphic\/fizzle\/site\/buy.html": {
-		"fileType": 8192,
+	"\/develp\/jade\/graphic\/fizzle\/site\/buy.jade": {
+		"compileDebug": 1,
+		"fileType": 512,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/develp\/jade\/graphic\/fizzle\/site\/buy.html",
-		"outputAbbreviatedPath": "No Output Path",
+		"inputAbbreviatedPath": "\/develp\/jade\/graphic\/fizzle\/site\/buy.jade",
+		"outputAbbreviatedPath": "\/develp\/jade\/graphic\/fizzle\/site\/buy.html",
 		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0
 		},
-	"\/develp\/jade\/graphic\/fizzle\/site\/contact.html": {
-		"fileType": 8192,
+	"\/develp\/jade\/graphic\/fizzle\/site\/contact.jade": {
+		"compileDebug": 1,
+		"fileType": 512,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/develp\/jade\/graphic\/fizzle\/site\/contact.html",
-		"outputAbbreviatedPath": "No Output Path",
+		"inputAbbreviatedPath": "\/develp\/jade\/graphic\/fizzle\/site\/contact.jade",
+		"outputAbbreviatedPath": "\/develp\/jade\/graphic\/fizzle\/site\/contact.html",
 		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0
 		},
-	"\/develp\/jade\/graphic\/fizzle\/site\/home.html": {
-		"fileType": 8192,
+	"\/develp\/jade\/graphic\/fizzle\/site\/home.jade": {
+		"compileDebug": 1,
+		"fileType": 512,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/develp\/jade\/graphic\/fizzle\/site\/home.html",
-		"outputAbbreviatedPath": "No Output Path",
+		"inputAbbreviatedPath": "\/develp\/jade\/graphic\/fizzle\/site\/home.jade",
+		"outputAbbreviatedPath": "\/develp\/jade\/graphic\/fizzle\/site\/home.html",
 		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0
 		},
-	"\/develp\/jade\/graphic\/fizzle\/site\/index.html": {
-		"fileType": 8192,
+	"\/develp\/jade\/graphic\/fizzle\/site\/index.jade": {
+		"compileDebug": 1,
+		"fileType": 512,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/develp\/jade\/graphic\/fizzle\/site\/index.html",
-		"outputAbbreviatedPath": "No Output Path",
+		"inputAbbreviatedPath": "\/develp\/jade\/graphic\/fizzle\/site\/index.jade",
+		"outputAbbreviatedPath": "\/develp\/jade\/graphic\/fizzle\/site\/index.html",
 		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0
 		},
-	"\/develp\/jade\/graphic\/fizzle\/site\/submit.html": {
-		"fileType": 8192,
+	"\/develp\/jade\/graphic\/fizzle\/site\/submit.jade": {
+		"compileDebug": 1,
+		"fileType": 512,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/develp\/jade\/graphic\/fizzle\/site\/submit.html",
-		"outputAbbreviatedPath": "No Output Path",
+		"inputAbbreviatedPath": "\/develp\/jade\/graphic\/fizzle\/site\/submit.jade",
+		"outputAbbreviatedPath": "\/develp\/jade\/graphic\/fizzle\/site\/submit.html",
 		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0
 		},
-	"\/develp\/jade\/graphic\/index.html": {
-		"fileType": 8192,
+	"\/develp\/jade\/graphic\/index.jade": {
+		"compileDebug": 1,
+		"fileType": 512,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/develp\/jade\/graphic\/index.html",
-		"outputAbbreviatedPath": "No Output Path",
+		"inputAbbreviatedPath": "\/develp\/jade\/graphic\/index.jade",
+		"outputAbbreviatedPath": "\/develp\/jade\/graphic\/index.html",
 		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0
 		},
-	"\/develp\/jade\/graphic\/logos\/index.html": {
-		"fileType": 8192,
+	"\/develp\/jade\/graphic\/logos\/index.jade": {
+		"compileDebug": 1,
+		"fileType": 512,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/develp\/jade\/graphic\/logos\/index.html",
-		"outputAbbreviatedPath": "No Output Path",
+		"inputAbbreviatedPath": "\/develp\/jade\/graphic\/logos\/index.jade",
+		"outputAbbreviatedPath": "\/develp\/jade\/graphic\/logos\/index.html",
 		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0
 		},
-	"\/develp\/jade\/graphic\/posters\/index.html": {
-		"fileType": 8192,
+	"\/develp\/jade\/graphic\/posters\/index.jade": {
+		"compileDebug": 1,
+		"fileType": 512,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/develp\/jade\/graphic\/posters\/index.html",
-		"outputAbbreviatedPath": "No Output Path",
+		"inputAbbreviatedPath": "\/develp\/jade\/graphic\/posters\/index.jade",
+		"outputAbbreviatedPath": "\/develp\/jade\/graphic\/posters\/index.html",
 		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0
 		},
-	"\/develp\/jade\/index.html": {
-		"fileType": 8192,
+	"\/develp\/jade\/index.jade": {
+		"compileDebug": 1,
+		"fileType": 512,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/develp\/jade\/index.html",
-		"outputAbbreviatedPath": "No Output Path",
+		"inputAbbreviatedPath": "\/develp\/jade\/index.jade",
+		"outputAbbreviatedPath": "\/develp\/jade\/index.html",
 		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0
 		},
-	"\/develp\/jade\/photography\/Dipticts\/index.html": {
-		"fileType": 8192,
+	"\/develp\/jade\/photography\/Dipticts\/index.jade": {
+		"compileDebug": 1,
+		"fileType": 512,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/develp\/jade\/photography\/Dipticts\/index.html",
-		"outputAbbreviatedPath": "No Output Path",
+		"inputAbbreviatedPath": "\/develp\/jade\/photography\/Dipticts\/index.jade",
+		"outputAbbreviatedPath": "\/develp\/jade\/photography\/Dipticts\/index.html",
 		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0
 		},
-	"\/develp\/jade\/photography\/Elapse\/index.html": {
-		"fileType": 8192,
+	"\/develp\/jade\/photography\/Elapse\/index.jade": {
+		"compileDebug": 1,
+		"fileType": 512,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/develp\/jade\/photography\/Elapse\/index.html",
-		"outputAbbreviatedPath": "No Output Path",
+		"inputAbbreviatedPath": "\/develp\/jade\/photography\/Elapse\/index.jade",
+		"outputAbbreviatedPath": "\/develp\/jade\/photography\/Elapse\/index.html",
 		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0
 		},
-	"\/develp\/jade\/photography\/index.html": {
-		"fileType": 8192,
+	"\/develp\/jade\/photography\/index.jade": {
+		"compileDebug": 1,
+		"fileType": 512,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/develp\/jade\/photography\/index.html",
-		"outputAbbreviatedPath": "No Output Path",
+		"inputAbbreviatedPath": "\/develp\/jade\/photography\/index.jade",
+		"outputAbbreviatedPath": "\/develp\/jade\/photography\/index.html",
 		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0
 		},
-	"\/develp\/jade\/photography\/Vacant\/index.html": {
-		"fileType": 8192,
+	"\/develp\/jade\/photography\/Vacant\/index.jade": {
+		"compileDebug": 1,
+		"fileType": 512,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/develp\/jade\/photography\/Vacant\/index.html",
-		"outputAbbreviatedPath": "No Output Path",
+		"inputAbbreviatedPath": "\/develp\/jade\/photography\/Vacant\/index.jade",
+		"outputAbbreviatedPath": "\/develp\/jade\/photography\/Vacant\/index.html",
 		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0
 		},
-	"\/develp\/jade\/phy_comp\/automaton\/index.html": {
-		"fileType": 8192,
+	"\/develp\/jade\/phy_comp\/automaton\/index.jade": {
+		"compileDebug": 1,
+		"fileType": 512,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/develp\/jade\/phy_comp\/automaton\/index.html",
-		"outputAbbreviatedPath": "No Output Path",
+		"inputAbbreviatedPath": "\/develp\/jade\/phy_comp\/automaton\/index.jade",
+		"outputAbbreviatedPath": "\/develp\/jade\/phy_comp\/automaton\/index.html",
 		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0
 		},
-	"\/develp\/jade\/phy_comp\/current\/index.html": {
-		"fileType": 8192,
+	"\/develp\/jade\/phy_comp\/current\/index.jade": {
+		"compileDebug": 1,
+		"fileType": 512,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/develp\/jade\/phy_comp\/current\/index.html",
-		"outputAbbreviatedPath": "No Output Path",
+		"inputAbbreviatedPath": "\/develp\/jade\/phy_comp\/current\/index.jade",
+		"outputAbbreviatedPath": "\/develp\/jade\/phy_comp\/current\/index.html",
 		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0
 		},
-	"\/develp\/jade\/phy_comp\/index.html": {
-		"fileType": 8192,
+	"\/develp\/jade\/phy_comp\/index.jade": {
+		"compileDebug": 1,
+		"fileType": 512,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/develp\/jade\/phy_comp\/index.html",
-		"outputAbbreviatedPath": "No Output Path",
+		"inputAbbreviatedPath": "\/develp\/jade\/phy_comp\/index.jade",
+		"outputAbbreviatedPath": "\/develp\/jade\/phy_comp\/index.html",
 		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0
 		},
 	"\/develp\/jade\/templates\/_footer.jade": {
 		"compileDebug": 1,
@@ -3670,50 +3736,60 @@
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0
 		},
-	"\/develp\/jade\/video\/amel\/index.html": {
-		"fileType": 8192,
+	"\/develp\/jade\/video\/amel\/index.jade": {
+		"compileDebug": 1,
+		"fileType": 512,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/develp\/jade\/video\/amel\/index.html",
-		"outputAbbreviatedPath": "No Output Path",
+		"inputAbbreviatedPath": "\/develp\/jade\/video\/amel\/index.jade",
+		"outputAbbreviatedPath": "\/develp\/jade\/video\/amel\/index.html",
 		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0
 		},
-	"\/develp\/jade\/video\/due\/index.html": {
-		"fileType": 8192,
+	"\/develp\/jade\/video\/due\/index.jade": {
+		"compileDebug": 1,
+		"fileType": 512,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/develp\/jade\/video\/due\/index.html",
-		"outputAbbreviatedPath": "No Output Path",
+		"inputAbbreviatedPath": "\/develp\/jade\/video\/due\/index.jade",
+		"outputAbbreviatedPath": "\/develp\/jade\/video\/due\/index.html",
 		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0
 		},
-	"\/develp\/jade\/video\/eg\/index.html": {
-		"fileType": 8192,
+	"\/develp\/jade\/video\/eg\/index.jade": {
+		"compileDebug": 1,
+		"fileType": 512,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/develp\/jade\/video\/eg\/index.html",
-		"outputAbbreviatedPath": "No Output Path",
+		"inputAbbreviatedPath": "\/develp\/jade\/video\/eg\/index.jade",
+		"outputAbbreviatedPath": "\/develp\/jade\/video\/eg\/index.html",
 		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0
 		},
-	"\/develp\/jade\/video\/index.html": {
-		"fileType": 8192,
+	"\/develp\/jade\/video\/index.jade": {
+		"compileDebug": 1,
+		"fileType": 512,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/develp\/jade\/video\/index.html",
-		"outputAbbreviatedPath": "No Output Path",
+		"inputAbbreviatedPath": "\/develp\/jade\/video\/index.jade",
+		"outputAbbreviatedPath": "\/develp\/jade\/video\/index.html",
 		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0
 		},
-	"\/develp\/jade\/video\/lap\/index.html": {
-		"fileType": 8192,
+	"\/develp\/jade\/video\/lap\/index.jade": {
+		"compileDebug": 1,
+		"fileType": 512,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/develp\/jade\/video\/lap\/index.html",
-		"outputAbbreviatedPath": "No Output Path",
+		"inputAbbreviatedPath": "\/develp\/jade\/video\/lap\/index.jade",
+		"outputAbbreviatedPath": "\/develp\/jade\/video\/lap\/index.html",
 		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0
 		}
 	},
 "hooks": [

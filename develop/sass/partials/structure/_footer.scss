@@ -5,10 +5,13 @@ footer {
   left: 0;
   right: 0;
   
+  p {
+    margin-bottom: 0; 
+  }
   
   img {
     width: 50px; 
-    display: block;
-    margin-bottom: 5px;
+    display: inline-block;
+    vertical-align: bottom;
   }
 }

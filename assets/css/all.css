@@ -266,10 +266,12 @@ footer {
   bottom: 0;
   left: 0;
   right: 0; }
+  footer p {
+    margin-bottom: 0; }
   footer img {
     width: 50px;
-    display: block;
-    margin-bottom: 5px; }
+    display: inline-block;
+    vertical-align: bottom; }
 
 @media only screen and (min-width: 800px) {
   aside {

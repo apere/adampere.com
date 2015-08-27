@@ -1,0 +1,57 @@
+body {
+  background-image: image-url('bg/banan.jpg');
+  background-repeat: repeat;
+  margin: 0;
+  padding: 0;
+}
+
+
+article {
+	
+}
+
+section {
+	margin-bottom: $base-margin;
+}
+
+figure {
+	
+}
+
+
+aside {
+  width: 100%;
+  vertical-align: top;
+  display: none;
+}
+
+.container {
+  width: 90%;
+  max-width: 960px;
+  background: $main-background-color;
+  position: relative;
+  margin: 7vh auto;
+  padding-top: $base-padding/2;
+  min-height: calc(86vh - 110px);
+  padding-bottom: 110px;
+}
+
+aside, .content {
+  padding-top: 0em;
+}
+
+.content {
+  padding: 0;
+  width: 100%;
+}
+
+h1, h2, h3, h4, h5, h6, p, section {
+	margin-top: 0;	 
+	padding-right: 15px;
+	padding-left: 15px; 
+  
+  h1, h2, h3, h4, h5, h6, p {
+    padding-left: 0;
+    padding-right: 0;
+  }
+}

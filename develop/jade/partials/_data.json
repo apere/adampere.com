@@ -1,0 +1,105 @@
+ var imageLocation = '/assets/img/projects/';
+ var round = imageLocation + 'round/';
+ var thumb = imageLocation + 'thumb/';
+ var full = imageLocation + 'full/';
+ var projects = [{
+   'parent': 'photo',
+   'key': 'diptict'
+ }, {
+   'parentURL': 'photo',
+   'key': 'elapse'
+ }, {
+   'parent': 'photo',
+   'key': 'vacant'
+ }, {
+   'parent': 'digi',
+   'key': 'hand'
+ }, {
+   'parent': 'digi',
+   'key': 'self'
+ }, {
+   'parent': 'digi',
+   'key': 'time'
+ }, {
+   'parent': 'phys',
+   'key': 'auto'
+ }, {
+   'parent': 'phys',
+   'key': 'current'
+ }, {
+   'parent': '3d',
+   'key': 'bathroom'
+ }, {
+   'parent': '3d',
+   'key': 'misc'
+ }, {
+   'parent': '3d',
+   'key': 'shape'
+ }, {
+   'parent': '3d',
+   'key': 'still'
+ }, {
+   'parent': 'graph',
+   'key': 'calendar'
+ }, {
+   'parent': 'graph',
+   'key': 'character'
+ }, {
+   'parent': 'graph',
+   'key': 'fizzle'
+ }, {
+   'parent': 'graph',
+   'key': 'logo'
+ }, {
+   'parent': 'graph',
+   'key': 'poster'
+ }, {
+   'parent': 'book',
+   'key': 'tub'
+ }, {
+   'parent': 'video',
+   'key': 'amel'
+ }, {
+   'parent': 'video',
+   'key': 'due'
+ }, {
+   'parent': 'video',
+   'key': 'egr'
+ }, {
+   'parent': 'video',
+   'key': 'lapid'
+ }];
+
+var navItems = [
+  {
+    'label' : 'adampere.com',
+    'url' : '/'
+  },
+  {
+    'label' : 'about'
+  },
+  {
+    'label' : 'contact'
+  },
+  {
+    'label' : 'photo'
+  },
+  {
+    'label' : 'digi'
+  },
+  {
+    'label' : 'phys'
+  },
+  {
+    'label' : '3d'
+  },
+  {
+    'label' : 'graph'
+  },
+  {
+    'label' : 'book'
+  },
+  {
+    'label' : 'video'
+  }
+  ];

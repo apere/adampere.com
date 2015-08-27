@@ -1,0 +1,180 @@
+html, body {
+  font-family: $font-serif;
+  font-size: $base-font-size;
+  line-height: $base-line-height;
+}
+
+svg {
+	text-rendering: optimizeLegibility;
+}
+
+
+// *** headers ***
+h1, h2, h3 {
+  font-weight: $bold;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	margin-bottom: $small-margin;
+}
+
+h1 {
+  font-size: $title-font-size;
+  line-height: $title-line-height;
+}
+
+h2 {
+  font-size: $medium-title-font-size;
+  line-height: $medium-title-line-height;
+}
+
+h3 {
+  font-size: $small-title-font-size;
+  line-height: $small-title-line-height;
+}
+
+h4 {
+	
+}
+
+h5 {
+	
+}
+
+h6 {
+	
+}
+// *** end headers ***
+
+
+// *** inline text treatment ***
+
+
+a {
+	@extend %transitions;
+	text-decoration: none;
+	font-weight: normal;
+	color: $base-text-color;
+  
+  &:hover, &:active, &:focus {
+    color: $nav-hover-color;
+    text-decoration: line-through;
+  }
+}
+
+b {
+	font-weight: $bold;
+}
+
+code {
+	font-family: monospace;
+	padding: 0 .5em;
+	background-color: rgba(128, 128, 128, 0.28);
+}
+
+i {
+	font-style: italic;
+}
+
+em {
+	font-style: italic;
+}
+
+// used for highlighting text (as opposed to span)
+mark {
+	background-color: rgba(245, 245, 142, 0.61);
+}
+
+// used for inserted text
+ins {
+	
+}
+
+// inline quote
+q { 
+	
+}
+
+// strikethrough
+s {
+	
+}
+
+small {
+	font-size: $small-font-size;
+}
+
+span {
+	
+}
+
+strong {
+	
+}
+
+
+sub {
+	
+}
+
+sup {
+	
+}
+
+// underline
+u {
+	
+}
+
+// ***  end inline text treatment ***
+
+
+// *** Block Text Options ***
+
+p {
+	margin-bottom: 1em;
+}
+
+blockquote, .quote {
+	position: relative;
+	margin: .5em;
+	padding: .5em;
+	
+	&:after { // this will automatically put a left quote in the left margin
+		content: "“";
+		width: 1em;
+		height: 1em;
+		position: absolute;
+		left: -.3em;
+		top: .4em;
+	}
+}
+
+// definition lists 
+dl {
+	dt {
+		
+	}
+	dd {
+		
+	}
+}
+
+figcaption {
+	
+}
+
+pre {
+	background-color: rgba(128, 128, 128, 0.28);
+	padding: 1em 1.5em;
+	width: auto;
+	margin: 2em auto;
+  overflow-x: scroll;
+	code {
+    width: auto;
+		display: block;
+		background-color: transparent;
+	}
+}
+
+// *** End Block Text Options ***

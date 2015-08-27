@@ -2,6 +2,51 @@
 "CodeKitInfo": "This is a CodeKit 2.x project configuration file. It is designed to sync project settings across multiple machines. MODIFYING THE CONTENTS OF THIS FILE IS A POOR LIFE DECISION. If you do so, you will likely cause CodeKit to crash. This file is not useful unless accompanied by the project that created it in CodeKit 2. This file is not backwards-compatible with CodeKit 1.x. For more information, see: http:\/\/incident57.com\/codekit",
 "creatorBuild": "19051",
 "files": {
+	"\/about\/index.html": {
+		"fileType": 8192,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/about\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/assets\/css\/all.css": {
+		"fileType": 16,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/css\/all.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/assets\/css\/ie.css": {
+		"fileType": 16,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/css\/ie.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/assets\/css\/print.css": {
+		"fileType": 16,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/css\/print.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/assets\/css\/screen.css": {
+		"fileType": 16,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/css\/screen.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/assets\/img\/bg\/banan.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -11,7 +56,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/bg\/banan.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/bg\/door2.jpg": {
 		"fileType": 16384,
@@ -22,194 +67,183 @@
 		"outputAbbreviatedPath": "\/assets\/img\/bg\/door2.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
-	"\/assets\/img\/projects\/full\/about_current\/aboutcurrent.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 179373,
-		"inputAbbreviatedPath": "\/assets\/img\/projects\/full\/about_current\/aboutcurrent.jpg",
-		"outputAbbreviatedPath": "\/assets\/img\/projects\/full\/about_current\/aboutcurrent.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/assets\/img\/projects\/full\/amelioration\/amel.jpg": {
+	"\/assets\/img\/projects\/full\/amel\/amel.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 54970,
-		"inputAbbreviatedPath": "\/assets\/img\/projects\/full\/amelioration\/amel.jpg",
-		"outputAbbreviatedPath": "\/assets\/img\/projects\/full\/amelioration\/amel.jpg",
+		"inputAbbreviatedPath": "\/assets\/img\/projects\/full\/amel\/amel.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/projects\/full\/amel\/amel.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
-	"\/assets\/img\/projects\/full\/automaton\/all.jpg": {
+	"\/assets\/img\/projects\/full\/auto\/all.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 824707,
-		"inputAbbreviatedPath": "\/assets\/img\/projects\/full\/automaton\/all.jpg",
-		"outputAbbreviatedPath": "\/assets\/img\/projects\/full\/automaton\/all.jpg",
+		"inputAbbreviatedPath": "\/assets\/img\/projects\/full\/auto\/all.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/projects\/full\/auto\/all.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
-	"\/assets\/img\/projects\/full\/automaton\/all2.jpg": {
+	"\/assets\/img\/projects\/full\/auto\/all2.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 1.00065e+06,
-		"inputAbbreviatedPath": "\/assets\/img\/projects\/full\/automaton\/all2.jpg",
-		"outputAbbreviatedPath": "\/assets\/img\/projects\/full\/automaton\/all2.jpg",
+		"inputAbbreviatedPath": "\/assets\/img\/projects\/full\/auto\/all2.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/projects\/full\/auto\/all2.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
-	"\/assets\/img\/projects\/full\/automaton\/computer.jpg": {
+	"\/assets\/img\/projects\/full\/auto\/computer.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 694402,
-		"inputAbbreviatedPath": "\/assets\/img\/projects\/full\/automaton\/computer.jpg",
-		"outputAbbreviatedPath": "\/assets\/img\/projects\/full\/automaton\/computer.jpg",
+		"inputAbbreviatedPath": "\/assets\/img\/projects\/full\/auto\/computer.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/projects\/full\/auto\/computer.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
-	"\/assets\/img\/projects\/full\/automaton\/john fb.png": {
+	"\/assets\/img\/projects\/full\/auto\/john fb.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 295955,
-		"inputAbbreviatedPath": "\/assets\/img\/projects\/full\/automaton\/john fb.png",
-		"outputAbbreviatedPath": "\/assets\/img\/projects\/full\/automaton\/john fb.png",
+		"inputAbbreviatedPath": "\/assets\/img\/projects\/full\/auto\/john fb.png",
+		"outputAbbreviatedPath": "\/assets\/img\/projects\/full\/auto\/john fb.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
-	"\/assets\/img\/projects\/full\/automaton\/john.jpg": {
+	"\/assets\/img\/projects\/full\/auto\/john.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 806378,
-		"inputAbbreviatedPath": "\/assets\/img\/projects\/full\/automaton\/john.jpg",
-		"outputAbbreviatedPath": "\/assets\/img\/projects\/full\/automaton\/john.jpg",
+		"inputAbbreviatedPath": "\/assets\/img\/projects\/full\/auto\/john.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/projects\/full\/auto\/john.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
-	"\/assets\/img\/projects\/full\/automaton\/johncomments.png": {
+	"\/assets\/img\/projects\/full\/auto\/johncomments.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 43282,
-		"inputAbbreviatedPath": "\/assets\/img\/projects\/full\/automaton\/johncomments.png",
-		"outputAbbreviatedPath": "\/assets\/img\/projects\/full\/automaton\/johncomments.png",
+		"inputAbbreviatedPath": "\/assets\/img\/projects\/full\/auto\/johncomments.png",
+		"outputAbbreviatedPath": "\/assets\/img\/projects\/full\/auto\/johncomments.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
-	"\/assets\/img\/projects\/full\/automaton\/mark.jpg": {
+	"\/assets\/img\/projects\/full\/auto\/mark.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 689485,
-		"inputAbbreviatedPath": "\/assets\/img\/projects\/full\/automaton\/mark.jpg",
-		"outputAbbreviatedPath": "\/assets\/img\/projects\/full\/automaton\/mark.jpg",
+		"inputAbbreviatedPath": "\/assets\/img\/projects\/full\/auto\/mark.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/projects\/full\/auto\/mark.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
-	"\/assets\/img\/projects\/full\/automaton\/markcomments.png": {
+	"\/assets\/img\/projects\/full\/auto\/markcomments.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 29416,
-		"inputAbbreviatedPath": "\/assets\/img\/projects\/full\/automaton\/markcomments.png",
-		"outputAbbreviatedPath": "\/assets\/img\/projects\/full\/automaton\/markcomments.png",
+		"inputAbbreviatedPath": "\/assets\/img\/projects\/full\/auto\/markcomments.png",
+		"outputAbbreviatedPath": "\/assets\/img\/projects\/full\/auto\/markcomments.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
-	"\/assets\/img\/projects\/full\/automaton\/monitor.jpg": {
+	"\/assets\/img\/projects\/full\/auto\/monitor.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 669994,
-		"inputAbbreviatedPath": "\/assets\/img\/projects\/full\/automaton\/monitor.jpg",
-		"outputAbbreviatedPath": "\/assets\/img\/projects\/full\/automaton\/monitor.jpg",
+		"inputAbbreviatedPath": "\/assets\/img\/projects\/full\/auto\/monitor.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/projects\/full\/auto\/monitor.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
-	"\/assets\/img\/projects\/full\/automaton\/robo1 copy2.jpg": {
+	"\/assets\/img\/projects\/full\/auto\/robo1 copy2.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 1.11844e+06,
-		"inputAbbreviatedPath": "\/assets\/img\/projects\/full\/automaton\/robo1 copy2.jpg",
-		"outputAbbreviatedPath": "\/assets\/img\/projects\/full\/automaton\/robo1 copy2.jpg",
+		"inputAbbreviatedPath": "\/assets\/img\/projects\/full\/auto\/robo1 copy2.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/projects\/full\/auto\/robo1 copy2.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
-	"\/assets\/img\/projects\/full\/automaton\/robo1 copy2a.jpg": {
+	"\/assets\/img\/projects\/full\/auto\/robo1 copy2a.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 570265,
-		"inputAbbreviatedPath": "\/assets\/img\/projects\/full\/automaton\/robo1 copy2a.jpg",
-		"outputAbbreviatedPath": "\/assets\/img\/projects\/full\/automaton\/robo1 copy2a.jpg",
+		"inputAbbreviatedPath": "\/assets\/img\/projects\/full\/auto\/robo1 copy2a.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/projects\/full\/auto\/robo1 copy2a.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
-	"\/assets\/img\/projects\/full\/automaton\/ROBO1.jpg": {
+	"\/assets\/img\/projects\/full\/auto\/ROBO1.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 854288,
-		"inputAbbreviatedPath": "\/assets\/img\/projects\/full\/automaton\/ROBO1.jpg",
-		"outputAbbreviatedPath": "\/assets\/img\/projects\/full\/automaton\/ROBO1.jpg",
+		"inputAbbreviatedPath": "\/assets\/img\/projects\/full\/auto\/ROBO1.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/projects\/full\/auto\/ROBO1.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
-	"\/assets\/img\/projects\/full\/automaton\/robo1a.jpg": {
+	"\/assets\/img\/projects\/full\/auto\/robo1a.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 887611,
-		"inputAbbreviatedPath": "\/assets\/img\/projects\/full\/automaton\/robo1a.jpg",
-		"outputAbbreviatedPath": "\/assets\/img\/projects\/full\/automaton\/robo1a.jpg",
+		"inputAbbreviatedPath": "\/assets\/img\/projects\/full\/auto\/robo1a.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/projects\/full\/auto\/robo1a.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
-	"\/assets\/img\/projects\/full\/automaton\/saRAH.jpg": {
+	"\/assets\/img\/projects\/full\/auto\/saRAH.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 607842,
-		"inputAbbreviatedPath": "\/assets\/img\/projects\/full\/automaton\/saRAH.jpg",
-		"outputAbbreviatedPath": "\/assets\/img\/projects\/full\/automaton\/saRAH.jpg",
+		"inputAbbreviatedPath": "\/assets\/img\/projects\/full\/auto\/saRAH.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/projects\/full\/auto\/saRAH.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
-	"\/assets\/img\/projects\/full\/automaton\/sarahcomment.png": {
+	"\/assets\/img\/projects\/full\/auto\/sarahcomment.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 39034,
-		"inputAbbreviatedPath": "\/assets\/img\/projects\/full\/automaton\/sarahcomment.png",
-		"outputAbbreviatedPath": "\/assets\/img\/projects\/full\/automaton\/sarahcomment.png",
+		"inputAbbreviatedPath": "\/assets\/img\/projects\/full\/auto\/sarahcomment.png",
+		"outputAbbreviatedPath": "\/assets\/img\/projects\/full\/auto\/sarahcomment.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/projects\/full\/bathroom\/1.jpg": {
 		"fileType": 16384,
@@ -220,7 +254,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/projects\/full\/bathroom\/1.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/projects\/full\/bathroom\/2.jpg": {
 		"fileType": 16384,
@@ -231,7 +265,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/projects\/full\/bathroom\/2.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/projects\/full\/bathroom\/3.jpg": {
 		"fileType": 16384,
@@ -242,7 +276,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/projects\/full\/bathroom\/3.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/projects\/full\/bathroom\/4.jpg": {
 		"fileType": 16384,
@@ -253,7 +287,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/projects\/full\/bathroom\/4.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/projects\/full\/bathroom\/5.jpg": {
 		"fileType": 16384,
@@ -264,7 +298,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/projects\/full\/bathroom\/5.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/projects\/full\/calendar\/0-cal1.jpg": {
 		"fileType": 16384,
@@ -275,7 +309,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/projects\/full\/calendar\/0-cal1.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/projects\/full\/calendar\/1-JAN.jpg": {
 		"fileType": 16384,
@@ -286,7 +320,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/projects\/full\/calendar\/1-JAN.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/projects\/full\/calendar\/10-OCT.jpg": {
 		"fileType": 16384,
@@ -297,7 +331,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/projects\/full\/calendar\/10-OCT.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/projects\/full\/calendar\/11-NOV.jpg": {
 		"fileType": 16384,
@@ -308,7 +342,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/projects\/full\/calendar\/11-NOV.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/projects\/full\/calendar\/12-DEC.jpg": {
 		"fileType": 16384,
@@ -319,7 +353,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/projects\/full\/calendar\/12-DEC.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/projects\/full\/calendar\/2-FEB.jpg": {
 		"fileType": 16384,
@@ -330,7 +364,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/projects\/full\/calendar\/2-FEB.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/projects\/full\/calendar\/3-MAR.jpg": {
 		"fileType": 16384,
@@ -341,7 +375,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/projects\/full\/calendar\/3-MAR.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/projects\/full\/calendar\/4-APR.jpg": {
 		"fileType": 16384,
@@ -352,7 +386,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/projects\/full\/calendar\/4-APR.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/projects\/full\/calendar\/5-MAY.jpg": {
 		"fileType": 16384,
@@ -363,7 +397,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/projects\/full\/calendar\/5-MAY.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/projects\/full\/calendar\/6-JUN.jpg": {
 		"fileType": 16384,
@@ -374,7 +408,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/projects\/full\/calendar\/6-JUN.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/projects\/full\/calendar\/7-JUL.jpg": {
 		"fileType": 16384,
@@ -385,7 +419,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/projects\/full\/calendar\/7-JUL.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/projects\/full\/calendar\/8-AUG.jpg": {
 		"fileType": 16384,
@@ -396,7 +430,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/projects\/full\/calendar\/8-AUG.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/projects\/full\/calendar\/9-SEP.jpg": {
 		"fileType": 16384,
@@ -407,7 +441,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/projects\/full\/calendar\/9-SEP.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/projects\/full\/calendar\/full_cal.jpg": {
 		"fileType": 16384,
@@ -418,7 +452,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/projects\/full\/calendar\/full_cal.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/projects\/full\/character\/1.jpg": {
 		"fileType": 16384,
@@ -429,7 +463,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/projects\/full\/character\/1.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/projects\/full\/character\/10.jpg": {
 		"fileType": 16384,
@@ -440,7 +474,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/projects\/full\/character\/10.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/projects\/full\/character\/11.jpg": {
 		"fileType": 16384,
@@ -451,7 +485,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/projects\/full\/character\/11.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/projects\/full\/character\/12.jpg": {
 		"fileType": 16384,
@@ -462,7 +496,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/projects\/full\/character\/12.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/projects\/full\/character\/13.jpg": {
 		"fileType": 16384,
@@ -473,7 +507,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/projects\/full\/character\/13.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/projects\/full\/character\/14.jpg": {
 		"fileType": 16384,
@@ -484,7 +518,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/projects\/full\/character\/14.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/projects\/full\/character\/15.jpg": {
 		"fileType": 16384,
@@ -495,7 +529,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/projects\/full\/character\/15.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/projects\/full\/character\/16.jpg": {
 		"fileType": 16384,
@@ -506,7 +540,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/projects\/full\/character\/16.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/projects\/full\/character\/2.jpg": {
 		"fileType": 16384,
@@ -517,7 +551,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/projects\/full\/character\/2.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/projects\/full\/character\/3.jpg": {
 		"fileType": 16384,
@@ -528,7 +562,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/projects\/full\/character\/3.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/projects\/full\/character\/4.jpg": {
 		"fileType": 16384,
@@ -539,7 +573,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/projects\/full\/character\/4.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/projects\/full\/character\/5.jpg": {
 		"fileType": 16384,
@@ -550,7 +584,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/projects\/full\/character\/5.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/projects\/full\/character\/6.jpg": {
 		"fileType": 16384,
@@ -561,7 +595,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/projects\/full\/character\/6.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/projects\/full\/character\/7.jpg": {
 		"fileType": 16384,
@@ -572,7 +606,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/projects\/full\/character\/7.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/projects\/full\/character\/8.jpg": {
 		"fileType": 16384,
@@ -583,7 +617,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/projects\/full\/character\/8.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/projects\/full\/character\/9.jpg": {
 		"fileType": 16384,
@@ -594,7 +628,18 @@
 		"outputAbbreviatedPath": "\/assets\/img\/projects\/full\/character\/9.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
+		},
+	"\/assets\/img\/projects\/full\/current\/current.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 179373,
+		"inputAbbreviatedPath": "\/assets\/img\/projects\/full\/current\/current.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/projects\/full\/current\/current.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
 		},
 	"\/assets\/img\/projects\/full\/diptict\/Diptict-1.jpg": {
 		"fileType": 16384,
@@ -605,7 +650,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/projects\/full\/diptict\/Diptict-1.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/projects\/full\/diptict\/Diptict-2.jpg": {
 		"fileType": 16384,
@@ -616,7 +661,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/projects\/full\/diptict\/Diptict-2.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/projects\/full\/diptict\/Diptict-3.jpg": {
 		"fileType": 16384,
@@ -627,7 +672,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/projects\/full\/diptict\/Diptict-3.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/projects\/full\/due\/due diligence.png": {
 		"fileType": 32768,
@@ -638,18 +683,18 @@
 		"outputAbbreviatedPath": "\/assets\/img\/projects\/full\/due\/due diligence.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
-	"\/assets\/img\/projects\/full\/egress\/egress.png": {
+	"\/assets\/img\/projects\/full\/egr\/egress.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 870201,
-		"inputAbbreviatedPath": "\/assets\/img\/projects\/full\/egress\/egress.png",
-		"outputAbbreviatedPath": "\/assets\/img\/projects\/full\/egress\/egress.png",
+		"inputAbbreviatedPath": "\/assets\/img\/projects\/full\/egr\/egress.png",
+		"outputAbbreviatedPath": "\/assets\/img\/projects\/full\/egr\/egress.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/projects\/full\/elapse\/Elapse-0.jpg": {
 		"fileType": 16384,
@@ -660,7 +705,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/projects\/full\/elapse\/Elapse-0.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/projects\/full\/elapse\/Elapse-1.jpg": {
 		"fileType": 16384,
@@ -671,7 +716,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/projects\/full\/elapse\/Elapse-1.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/projects\/full\/elapse\/Elapse-10.jpg": {
 		"fileType": 16384,
@@ -682,7 +727,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/projects\/full\/elapse\/Elapse-10.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/projects\/full\/elapse\/Elapse-11.jpg": {
 		"fileType": 16384,
@@ -693,7 +738,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/projects\/full\/elapse\/Elapse-11.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/projects\/full\/elapse\/Elapse-2.jpg": {
 		"fileType": 16384,
@@ -704,7 +749,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/projects\/full\/elapse\/Elapse-2.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/projects\/full\/elapse\/Elapse-3.jpg": {
 		"fileType": 16384,
@@ -715,7 +760,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/projects\/full\/elapse\/Elapse-3.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/projects\/full\/elapse\/Elapse-4.jpg": {
 		"fileType": 16384,
@@ -726,7 +771,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/projects\/full\/elapse\/Elapse-4.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/projects\/full\/elapse\/Elapse-5.jpg": {
 		"fileType": 16384,
@@ -737,7 +782,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/projects\/full\/elapse\/Elapse-5.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/projects\/full\/elapse\/Elapse-6.jpg": {
 		"fileType": 16384,
@@ -748,7 +793,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/projects\/full\/elapse\/Elapse-6.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/projects\/full\/elapse\/Elapse-7.jpg": {
 		"fileType": 16384,
@@ -759,7 +804,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/projects\/full\/elapse\/Elapse-7.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/projects\/full\/elapse\/Elapse-8.jpg": {
 		"fileType": 16384,
@@ -770,7 +815,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/projects\/full\/elapse\/Elapse-8.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/projects\/full\/elapse\/Elapse-9.jpg": {
 		"fileType": 16384,
@@ -781,7 +826,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/projects\/full\/elapse\/Elapse-9.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/projects\/full\/fizzle\/2.JPG": {
 		"fileType": 16384,
@@ -792,7 +837,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/projects\/full\/fizzle\/2.JPG",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/projects\/full\/fizzle\/3.JPG": {
 		"fileType": 16384,
@@ -803,7 +848,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/projects\/full\/fizzle\/3.JPG",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/projects\/full\/fizzle\/4.JPG": {
 		"fileType": 16384,
@@ -814,7 +859,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/projects\/full\/fizzle\/4.JPG",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/projects\/full\/fizzle\/5.JPG": {
 		"fileType": 16384,
@@ -825,7 +870,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/projects\/full\/fizzle\/5.JPG",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/projects\/full\/fizzle\/6.JPG": {
 		"fileType": 16384,
@@ -836,7 +881,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/projects\/full\/fizzle\/6.JPG",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/projects\/full\/fizzle\/7.JPG": {
 		"fileType": 16384,
@@ -847,7 +892,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/projects\/full\/fizzle\/7.JPG",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/projects\/full\/fizzle\/8.jpg": {
 		"fileType": 16384,
@@ -858,7 +903,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/projects\/full\/fizzle\/8.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/projects\/full\/fizzle\/9.jpg": {
 		"fileType": 16384,
@@ -869,7 +914,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/projects\/full\/fizzle\/9.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/projects\/full\/fizzle\/site.png": {
 		"fileType": 32768,
@@ -880,7 +925,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/projects\/full\/fizzle\/site.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/projects\/full\/hand\/hands1.jpg": {
 		"fileType": 16384,
@@ -891,7 +936,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/projects\/full\/hand\/hands1.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/projects\/full\/hand\/hands2.jpg": {
 		"fileType": 16384,
@@ -902,7 +947,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/projects\/full\/hand\/hands2.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/projects\/full\/hand\/hands3.jpg": {
 		"fileType": 16384,
@@ -913,7 +958,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/projects\/full\/hand\/hands3.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/projects\/full\/hand\/hands4.jpg": {
 		"fileType": 16384,
@@ -924,7 +969,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/projects\/full\/hand\/hands4.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/projects\/full\/hand\/hands5.jpg": {
 		"fileType": 16384,
@@ -935,15 +980,15 @@
 		"outputAbbreviatedPath": "\/assets\/img\/projects\/full\/hand\/hands5.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
-	"\/assets\/img\/projects\/full\/lapidification\/lapidification.png": {
+	"\/assets\/img\/projects\/full\/lapid\/lapid.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 288296,
-		"inputAbbreviatedPath": "\/assets\/img\/projects\/full\/lapidification\/lapidification.png",
-		"outputAbbreviatedPath": "\/assets\/img\/projects\/full\/lapidification\/lapidification.png",
+		"initialSize": 218031,
+		"inputAbbreviatedPath": "\/assets\/img\/projects\/full\/lapid\/lapid.png",
+		"outputAbbreviatedPath": "\/assets\/img\/projects\/full\/lapid\/lapid.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -957,7 +1002,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/projects\/full\/logo\/logo-1.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/projects\/full\/logo\/logo-2.png": {
 		"fileType": 32768,
@@ -968,7 +1013,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/projects\/full\/logo\/logo-2.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/projects\/full\/logo\/logo-3.png": {
 		"fileType": 32768,
@@ -979,7 +1024,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/projects\/full\/logo\/logo-3.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/projects\/full\/logo\/logo-4.png": {
 		"fileType": 32768,
@@ -990,7 +1035,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/projects\/full\/logo\/logo-4.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/projects\/full\/logo\/logo-5.png": {
 		"fileType": 32768,
@@ -1001,7 +1046,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/projects\/full\/logo\/logo-5.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/projects\/full\/logo\/logo-6.png": {
 		"fileType": 32768,
@@ -1012,7 +1057,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/projects\/full\/logo\/logo-6.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/projects\/full\/misc\/melting-1.jpg": {
 		"fileType": 16384,
@@ -1023,7 +1068,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/projects\/full\/misc\/melting-1.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/projects\/full\/misc\/melting-2.jpg": {
 		"fileType": 16384,
@@ -1034,7 +1079,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/projects\/full\/misc\/melting-2.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/projects\/full\/misc\/melting-3.jpg": {
 		"fileType": 16384,
@@ -1045,7 +1090,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/projects\/full\/misc\/melting-3.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/projects\/full\/misc\/melting-4.jpg": {
 		"fileType": 16384,
@@ -1056,7 +1101,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/projects\/full\/misc\/melting-4.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/projects\/full\/poster\/poster-1.png": {
 		"fileType": 32768,
@@ -1067,7 +1112,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/projects\/full\/poster\/poster-1.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/projects\/full\/poster\/poster-2.png": {
 		"fileType": 32768,
@@ -1078,7 +1123,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/projects\/full\/poster\/poster-2.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/projects\/full\/poster\/poster-4.png": {
 		"fileType": 32768,
@@ -1089,7 +1134,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/projects\/full\/poster\/poster-4.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/projects\/full\/poster\/poster-5.png": {
 		"fileType": 32768,
@@ -1100,7 +1145,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/projects\/full\/poster\/poster-5.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/projects\/full\/poster\/poster-6.png": {
 		"fileType": 32768,
@@ -1111,7 +1156,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/projects\/full\/poster\/poster-6.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/projects\/full\/poster\/poster-7.png": {
 		"fileType": 32768,
@@ -1122,7 +1167,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/projects\/full\/poster\/poster-7.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/projects\/full\/poster\/poster-8.png": {
 		"fileType": 32768,
@@ -1133,7 +1178,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/projects\/full\/poster\/poster-8.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/projects\/full\/poster\/poster-9.jpg": {
 		"fileType": 16384,
@@ -1144,73 +1189,73 @@
 		"outputAbbreviatedPath": "\/assets\/img\/projects\/full\/poster\/poster-9.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
-	"\/assets\/img\/projects\/full\/self_portrait\/self-1.jpg": {
+	"\/assets\/img\/projects\/full\/self\/self-1.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 2.21022e+06,
-		"inputAbbreviatedPath": "\/assets\/img\/projects\/full\/self_portrait\/self-1.jpg",
-		"outputAbbreviatedPath": "\/assets\/img\/projects\/full\/self_portrait\/self-1.jpg",
+		"inputAbbreviatedPath": "\/assets\/img\/projects\/full\/self\/self-1.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/projects\/full\/self\/self-1.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
-	"\/assets\/img\/projects\/full\/self_portrait\/self-2.jpg": {
+	"\/assets\/img\/projects\/full\/self\/self-2.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 2.81652e+06,
-		"inputAbbreviatedPath": "\/assets\/img\/projects\/full\/self_portrait\/self-2.jpg",
-		"outputAbbreviatedPath": "\/assets\/img\/projects\/full\/self_portrait\/self-2.jpg",
+		"inputAbbreviatedPath": "\/assets\/img\/projects\/full\/self\/self-2.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/projects\/full\/self\/self-2.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
-	"\/assets\/img\/projects\/full\/self_portrait\/self-3.jpg": {
+	"\/assets\/img\/projects\/full\/self\/self-3.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 2.6927e+06,
-		"inputAbbreviatedPath": "\/assets\/img\/projects\/full\/self_portrait\/self-3.jpg",
-		"outputAbbreviatedPath": "\/assets\/img\/projects\/full\/self_portrait\/self-3.jpg",
+		"inputAbbreviatedPath": "\/assets\/img\/projects\/full\/self\/self-3.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/projects\/full\/self\/self-3.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
-	"\/assets\/img\/projects\/full\/self_portrait\/self-4.jpg": {
+	"\/assets\/img\/projects\/full\/self\/self-4.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 1.39391e+06,
-		"inputAbbreviatedPath": "\/assets\/img\/projects\/full\/self_portrait\/self-4.jpg",
-		"outputAbbreviatedPath": "\/assets\/img\/projects\/full\/self_portrait\/self-4.jpg",
+		"inputAbbreviatedPath": "\/assets\/img\/projects\/full\/self\/self-4.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/projects\/full\/self\/self-4.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
-	"\/assets\/img\/projects\/full\/self_portrait\/self-5.jpg": {
+	"\/assets\/img\/projects\/full\/self\/self-5.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 1.78154e+06,
-		"inputAbbreviatedPath": "\/assets\/img\/projects\/full\/self_portrait\/self-5.jpg",
-		"outputAbbreviatedPath": "\/assets\/img\/projects\/full\/self_portrait\/self-5.jpg",
+		"inputAbbreviatedPath": "\/assets\/img\/projects\/full\/self\/self-5.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/projects\/full\/self\/self-5.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
-	"\/assets\/img\/projects\/full\/self_portrait\/self-6.jpg": {
+	"\/assets\/img\/projects\/full\/self\/self-6.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 2.45253e+06,
-		"inputAbbreviatedPath": "\/assets\/img\/projects\/full\/self_portrait\/self-6.jpg",
-		"outputAbbreviatedPath": "\/assets\/img\/projects\/full\/self_portrait\/self-6.jpg",
+		"inputAbbreviatedPath": "\/assets\/img\/projects\/full\/self\/self-6.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/projects\/full\/self\/self-6.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/projects\/full\/shape\/shapes1.jpg": {
 		"fileType": 16384,
@@ -1221,7 +1266,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/projects\/full\/shape\/shapes1.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/projects\/full\/shape\/shapes2.jpg": {
 		"fileType": 16384,
@@ -1232,7 +1277,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/projects\/full\/shape\/shapes2.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/projects\/full\/shape\/shapes3.jpg": {
 		"fileType": 16384,
@@ -1243,7 +1288,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/projects\/full\/shape\/shapes3.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/projects\/full\/shape\/shapes4.jpg": {
 		"fileType": 16384,
@@ -1254,7 +1299,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/projects\/full\/shape\/shapes4.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/projects\/full\/shape\/shapes5.jpg": {
 		"fileType": 16384,
@@ -1265,95 +1310,95 @@
 		"outputAbbreviatedPath": "\/assets\/img\/projects\/full\/shape\/shapes5.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
-	"\/assets\/img\/projects\/full\/still_life\/22222.jpg": {
+	"\/assets\/img\/projects\/full\/still\/22222.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 722488,
-		"inputAbbreviatedPath": "\/assets\/img\/projects\/full\/still_life\/22222.jpg",
-		"outputAbbreviatedPath": "\/assets\/img\/projects\/full\/still_life\/22222.jpg",
+		"inputAbbreviatedPath": "\/assets\/img\/projects\/full\/still\/22222.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/projects\/full\/still\/22222.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
-	"\/assets\/img\/projects\/full\/still_life\/still_life.jpg": {
+	"\/assets\/img\/projects\/full\/still\/still.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 1.01783e+06,
-		"inputAbbreviatedPath": "\/assets\/img\/projects\/full\/still_life\/still_life.jpg",
-		"outputAbbreviatedPath": "\/assets\/img\/projects\/full\/still_life\/still_life.jpg",
+		"initialSize": 988973,
+		"inputAbbreviatedPath": "\/assets\/img\/projects\/full\/still\/still.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/projects\/full\/still\/still.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/assets\/img\/projects\/full\/time_capsule\/time-1.jpg": {
+	"\/assets\/img\/projects\/full\/time\/time-1.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 2.73741e+06,
-		"inputAbbreviatedPath": "\/assets\/img\/projects\/full\/time_capsule\/time-1.jpg",
-		"outputAbbreviatedPath": "\/assets\/img\/projects\/full\/time_capsule\/time-1.jpg",
+		"inputAbbreviatedPath": "\/assets\/img\/projects\/full\/time\/time-1.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/projects\/full\/time\/time-1.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
-	"\/assets\/img\/projects\/full\/time_capsule\/time-2.jpg": {
+	"\/assets\/img\/projects\/full\/time\/time-2.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 3.21848e+06,
-		"inputAbbreviatedPath": "\/assets\/img\/projects\/full\/time_capsule\/time-2.jpg",
-		"outputAbbreviatedPath": "\/assets\/img\/projects\/full\/time_capsule\/time-2.jpg",
+		"inputAbbreviatedPath": "\/assets\/img\/projects\/full\/time\/time-2.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/projects\/full\/time\/time-2.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
-	"\/assets\/img\/projects\/full\/time_capsule\/time-3.jpg": {
+	"\/assets\/img\/projects\/full\/time\/time-3.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 2.8871e+06,
-		"inputAbbreviatedPath": "\/assets\/img\/projects\/full\/time_capsule\/time-3.jpg",
-		"outputAbbreviatedPath": "\/assets\/img\/projects\/full\/time_capsule\/time-3.jpg",
+		"inputAbbreviatedPath": "\/assets\/img\/projects\/full\/time\/time-3.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/projects\/full\/time\/time-3.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
-	"\/assets\/img\/projects\/full\/time_capsule\/time-4.jpg": {
+	"\/assets\/img\/projects\/full\/time\/time-4.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 2.04720e+06,
-		"inputAbbreviatedPath": "\/assets\/img\/projects\/full\/time_capsule\/time-4.jpg",
-		"outputAbbreviatedPath": "\/assets\/img\/projects\/full\/time_capsule\/time-4.jpg",
+		"inputAbbreviatedPath": "\/assets\/img\/projects\/full\/time\/time-4.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/projects\/full\/time\/time-4.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
-	"\/assets\/img\/projects\/full\/time_capsule\/time-5.jpg": {
+	"\/assets\/img\/projects\/full\/time\/time-5.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 2.14217e+06,
-		"inputAbbreviatedPath": "\/assets\/img\/projects\/full\/time_capsule\/time-5.jpg",
-		"outputAbbreviatedPath": "\/assets\/img\/projects\/full\/time_capsule\/time-5.jpg",
+		"inputAbbreviatedPath": "\/assets\/img\/projects\/full\/time\/time-5.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/projects\/full\/time\/time-5.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
-	"\/assets\/img\/projects\/full\/time_capsule\/time-6.jpg": {
+	"\/assets\/img\/projects\/full\/time\/time-6.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 2.55604e+06,
-		"inputAbbreviatedPath": "\/assets\/img\/projects\/full\/time_capsule\/time-6.jpg",
-		"outputAbbreviatedPath": "\/assets\/img\/projects\/full\/time_capsule\/time-6.jpg",
+		"inputAbbreviatedPath": "\/assets\/img\/projects\/full\/time\/time-6.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/projects\/full\/time\/time-6.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/projects\/full\/tub\/tub.jpg": {
 		"fileType": 16384,
@@ -1364,7 +1409,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/projects\/full\/tub\/tub.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/projects\/full\/vacant\/Vacant-10.jpeg": {
 		"fileType": 16384,
@@ -1375,7 +1420,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/projects\/full\/vacant\/Vacant-10.jpeg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/projects\/full\/vacant\/Vacant-11.jpeg": {
 		"fileType": 16384,
@@ -1386,7 +1431,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/projects\/full\/vacant\/Vacant-11.jpeg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/projects\/full\/vacant\/Vacant-12.jpeg": {
 		"fileType": 16384,
@@ -1397,7 +1442,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/projects\/full\/vacant\/Vacant-12.jpeg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/projects\/full\/vacant\/Vacant-13.jpeg": {
 		"fileType": 16384,
@@ -1408,7 +1453,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/projects\/full\/vacant\/Vacant-13.jpeg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/projects\/full\/vacant\/Vacant-14.jpeg": {
 		"fileType": 16384,
@@ -1419,7 +1464,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/projects\/full\/vacant\/Vacant-14.jpeg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/projects\/full\/vacant\/Vacant-15.jpeg": {
 		"fileType": 16384,
@@ -1430,7 +1475,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/projects\/full\/vacant\/Vacant-15.jpeg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/projects\/full\/vacant\/Vacant-16.jpeg": {
 		"fileType": 16384,
@@ -1441,7 +1486,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/projects\/full\/vacant\/Vacant-16.jpeg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/projects\/full\/vacant\/Vacant-17.jpeg": {
 		"fileType": 16384,
@@ -1452,7 +1497,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/projects\/full\/vacant\/Vacant-17.jpeg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/projects\/full\/vacant\/Vacant-18.jpeg": {
 		"fileType": 16384,
@@ -1463,7 +1508,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/projects\/full\/vacant\/Vacant-18.jpeg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/projects\/full\/vacant\/Vacant-19.jpeg": {
 		"fileType": 16384,
@@ -1474,7 +1519,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/projects\/full\/vacant\/Vacant-19.jpeg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/projects\/full\/vacant\/Vacant-2.jpeg": {
 		"fileType": 16384,
@@ -1485,7 +1530,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/projects\/full\/vacant\/Vacant-2.jpeg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/projects\/full\/vacant\/Vacant-20.jpeg": {
 		"fileType": 16384,
@@ -1496,7 +1541,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/projects\/full\/vacant\/Vacant-20.jpeg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/projects\/full\/vacant\/Vacant-21.jpeg": {
 		"fileType": 16384,
@@ -1507,7 +1552,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/projects\/full\/vacant\/Vacant-21.jpeg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/projects\/full\/vacant\/Vacant-22.jpeg": {
 		"fileType": 16384,
@@ -1518,7 +1563,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/projects\/full\/vacant\/Vacant-22.jpeg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/projects\/full\/vacant\/Vacant-23.jpeg": {
 		"fileType": 16384,
@@ -1529,7 +1574,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/projects\/full\/vacant\/Vacant-23.jpeg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/projects\/full\/vacant\/Vacant-24.jpeg": {
 		"fileType": 16384,
@@ -1540,7 +1585,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/projects\/full\/vacant\/Vacant-24.jpeg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/projects\/full\/vacant\/Vacant-25.jpeg": {
 		"fileType": 16384,
@@ -1551,7 +1596,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/projects\/full\/vacant\/Vacant-25.jpeg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/projects\/full\/vacant\/Vacant-26.jpeg": {
 		"fileType": 16384,
@@ -1562,7 +1607,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/projects\/full\/vacant\/Vacant-26.jpeg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/projects\/full\/vacant\/Vacant-27.jpeg": {
 		"fileType": 16384,
@@ -1573,7 +1618,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/projects\/full\/vacant\/Vacant-27.jpeg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/projects\/full\/vacant\/Vacant-28.jpeg": {
 		"fileType": 16384,
@@ -1584,7 +1629,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/projects\/full\/vacant\/Vacant-28.jpeg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/projects\/full\/vacant\/Vacant-29.jpeg": {
 		"fileType": 16384,
@@ -1595,7 +1640,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/projects\/full\/vacant\/Vacant-29.jpeg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/projects\/full\/vacant\/Vacant-3.jpeg": {
 		"fileType": 16384,
@@ -1606,7 +1651,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/projects\/full\/vacant\/Vacant-3.jpeg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/projects\/full\/vacant\/Vacant-30.jpeg": {
 		"fileType": 16384,
@@ -1617,7 +1662,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/projects\/full\/vacant\/Vacant-30.jpeg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/projects\/full\/vacant\/Vacant-31.jpeg": {
 		"fileType": 16384,
@@ -1628,7 +1673,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/projects\/full\/vacant\/Vacant-31.jpeg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/projects\/full\/vacant\/Vacant-32.jpeg": {
 		"fileType": 16384,
@@ -1639,7 +1684,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/projects\/full\/vacant\/Vacant-32.jpeg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/projects\/full\/vacant\/Vacant-36.jpeg": {
 		"fileType": 16384,
@@ -1650,7 +1695,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/projects\/full\/vacant\/Vacant-36.jpeg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/projects\/full\/vacant\/Vacant-37.jpeg": {
 		"fileType": 16384,
@@ -1661,7 +1706,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/projects\/full\/vacant\/Vacant-37.jpeg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/projects\/full\/vacant\/Vacant-38.jpeg": {
 		"fileType": 16384,
@@ -1672,7 +1717,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/projects\/full\/vacant\/Vacant-38.jpeg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/projects\/full\/vacant\/Vacant-39.jpeg": {
 		"fileType": 16384,
@@ -1683,7 +1728,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/projects\/full\/vacant\/Vacant-39.jpeg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/projects\/full\/vacant\/Vacant-40.jpeg": {
 		"fileType": 16384,
@@ -1694,7 +1739,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/projects\/full\/vacant\/Vacant-40.jpeg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/projects\/full\/vacant\/Vacant-41.jpeg": {
 		"fileType": 16384,
@@ -1705,7 +1750,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/projects\/full\/vacant\/Vacant-41.jpeg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/projects\/full\/vacant\/Vacant-5.jpeg": {
 		"fileType": 16384,
@@ -1716,7 +1761,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/projects\/full\/vacant\/Vacant-5.jpeg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/projects\/full\/vacant\/Vacant-6.jpeg": {
 		"fileType": 16384,
@@ -1727,7 +1772,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/projects\/full\/vacant\/Vacant-6.jpeg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/projects\/full\/vacant\/Vacant-8.jpeg": {
 		"fileType": 16384,
@@ -1738,7 +1783,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/projects\/full\/vacant\/Vacant-8.jpeg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/projects\/full\/vacant\/Vacant-9.jpeg": {
 		"fileType": 16384,
@@ -1749,48 +1794,37 @@
 		"outputAbbreviatedPath": "\/assets\/img\/projects\/full\/vacant\/Vacant-9.jpeg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
-	"\/assets\/img\/projects\/round\/about_current\/current.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 60481,
-		"inputAbbreviatedPath": "\/assets\/img\/projects\/round\/about_current\/current.jpg",
-		"outputAbbreviatedPath": "\/assets\/img\/projects\/round\/about_current\/current.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/assets\/img\/projects\/round\/amelioration\/amel.jpg": {
+	"\/assets\/img\/projects\/round\/amel\/amel.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 54970,
-		"inputAbbreviatedPath": "\/assets\/img\/projects\/round\/amelioration\/amel.jpg",
-		"outputAbbreviatedPath": "\/assets\/img\/projects\/round\/amelioration\/amel.jpg",
+		"inputAbbreviatedPath": "\/assets\/img\/projects\/round\/amel\/amel.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/projects\/round\/amel\/amel.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
-	"\/assets\/img\/projects\/round\/automaton\/auto.jpg": {
+	"\/assets\/img\/projects\/round\/auto\/auto.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 72625,
-		"inputAbbreviatedPath": "\/assets\/img\/projects\/round\/automaton\/auto.jpg",
-		"outputAbbreviatedPath": "\/assets\/img\/projects\/round\/automaton\/auto.jpg",
+		"inputAbbreviatedPath": "\/assets\/img\/projects\/round\/auto\/auto.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/projects\/round\/auto\/auto.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
-	"\/assets\/img\/projects\/round\/bathroom\/bathrooms.jpg": {
+	"\/assets\/img\/projects\/round\/bathroom\/bathroom.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 37313,
-		"inputAbbreviatedPath": "\/assets\/img\/projects\/round\/bathroom\/bathrooms.jpg",
-		"outputAbbreviatedPath": "\/assets\/img\/projects\/round\/bathroom\/bathrooms.jpg",
+		"initialSize": 19191,
+		"inputAbbreviatedPath": "\/assets\/img\/projects\/round\/bathroom\/bathroom.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/projects\/round\/bathroom\/bathroom.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -1804,18 +1838,29 @@
 		"outputAbbreviatedPath": "\/assets\/img\/projects\/round\/calendar\/calendar.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
-	"\/assets\/img\/projects\/round\/character\/charac.jpg": {
+	"\/assets\/img\/projects\/round\/character\/character.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 71066,
-		"inputAbbreviatedPath": "\/assets\/img\/projects\/round\/character\/charac.jpg",
-		"outputAbbreviatedPath": "\/assets\/img\/projects\/round\/character\/charac.jpg",
+		"initialSize": 56752,
+		"inputAbbreviatedPath": "\/assets\/img\/projects\/round\/character\/character.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/projects\/round\/character\/character.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
+		},
+	"\/assets\/img\/projects\/round\/current\/current.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 60481,
+		"inputAbbreviatedPath": "\/assets\/img\/projects\/round\/current\/current.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/projects\/round\/current\/current.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
 		},
 	"\/assets\/img\/projects\/round\/diptict\/Diptict.jpg": {
 		"fileType": 16384,
@@ -1826,7 +1871,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/projects\/round\/diptict\/Diptict.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/projects\/round\/due\/due.jpg": {
 		"fileType": 16384,
@@ -1837,15 +1882,15 @@
 		"outputAbbreviatedPath": "\/assets\/img\/projects\/round\/due\/due.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
-	"\/assets\/img\/projects\/round\/egress\/egress.jpg": {
+	"\/assets\/img\/projects\/round\/egr\/egr.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 76231,
-		"inputAbbreviatedPath": "\/assets\/img\/projects\/round\/egress\/egress.jpg",
-		"outputAbbreviatedPath": "\/assets\/img\/projects\/round\/egress\/egress.jpg",
+		"initialSize": 45462,
+		"inputAbbreviatedPath": "\/assets\/img\/projects\/round\/egr\/egr.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/projects\/round\/egr\/egr.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -1859,7 +1904,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/projects\/round\/elapse\/Elapse.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/projects\/round\/fizzle\/fizzle.jpg": {
 		"fileType": 16384,
@@ -1870,29 +1915,29 @@
 		"outputAbbreviatedPath": "\/assets\/img\/projects\/round\/fizzle\/fizzle.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
-	"\/assets\/img\/projects\/round\/hand\/hands.jpg": {
+	"\/assets\/img\/projects\/round\/hand\/hand.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 64883,
-		"inputAbbreviatedPath": "\/assets\/img\/projects\/round\/hand\/hands.jpg",
-		"outputAbbreviatedPath": "\/assets\/img\/projects\/round\/hand\/hands.jpg",
+		"initialSize": 31896,
+		"inputAbbreviatedPath": "\/assets\/img\/projects\/round\/hand\/hand.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/projects\/round\/hand\/hand.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/assets\/img\/projects\/round\/lapidification\/lapid.jpg": {
+	"\/assets\/img\/projects\/round\/lapid\/lapid.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 40289,
-		"inputAbbreviatedPath": "\/assets\/img\/projects\/round\/lapidification\/lapid.jpg",
-		"outputAbbreviatedPath": "\/assets\/img\/projects\/round\/lapidification\/lapid.jpg",
+		"inputAbbreviatedPath": "\/assets\/img\/projects\/round\/lapid\/lapid.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/projects\/round\/lapid\/lapid.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/projects\/round\/logo\/logo.jpg": {
 		"fileType": 16384,
@@ -1903,7 +1948,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/projects\/round\/logo\/logo.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/projects\/round\/misc\/misc.jpg": {
 		"fileType": 16384,
@@ -1914,7 +1959,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/projects\/round\/misc\/misc.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/projects\/round\/poster\/poster.jpg": {
 		"fileType": 16384,
@@ -1925,59 +1970,59 @@
 		"outputAbbreviatedPath": "\/assets\/img\/projects\/round\/poster\/poster.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
-	"\/assets\/img\/projects\/round\/self_portrait\/self.jpg": {
+	"\/assets\/img\/projects\/round\/self\/self.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 98194,
-		"inputAbbreviatedPath": "\/assets\/img\/projects\/round\/self_portrait\/self.jpg",
-		"outputAbbreviatedPath": "\/assets\/img\/projects\/round\/self_portrait\/self.jpg",
+		"inputAbbreviatedPath": "\/assets\/img\/projects\/round\/self\/self.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/projects\/round\/self\/self.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
-	"\/assets\/img\/projects\/round\/shape\/shapes.jpg": {
+	"\/assets\/img\/projects\/round\/shape\/shape.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 36394,
-		"inputAbbreviatedPath": "\/assets\/img\/projects\/round\/shape\/shapes.jpg",
-		"outputAbbreviatedPath": "\/assets\/img\/projects\/round\/shape\/shapes.jpg",
+		"initialSize": 19753,
+		"inputAbbreviatedPath": "\/assets\/img\/projects\/round\/shape\/shape.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/projects\/round\/shape\/shape.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/assets\/img\/projects\/round\/still_life\/still.jpg": {
+	"\/assets\/img\/projects\/round\/still\/still.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 81539,
-		"inputAbbreviatedPath": "\/assets\/img\/projects\/round\/still_life\/still.jpg",
-		"outputAbbreviatedPath": "\/assets\/img\/projects\/round\/still_life\/still.jpg",
+		"inputAbbreviatedPath": "\/assets\/img\/projects\/round\/still\/still.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/projects\/round\/still\/still.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
-	"\/assets\/img\/projects\/round\/time_capsule\/time.jpg": {
+	"\/assets\/img\/projects\/round\/time\/time.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 64819,
-		"inputAbbreviatedPath": "\/assets\/img\/projects\/round\/time_capsule\/time.jpg",
-		"outputAbbreviatedPath": "\/assets\/img\/projects\/round\/time_capsule\/time.jpg",
+		"inputAbbreviatedPath": "\/assets\/img\/projects\/round\/time\/time.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/projects\/round\/time\/time.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
-	"\/assets\/img\/projects\/round\/tub\/tubi.jpg": {
+	"\/assets\/img\/projects\/round\/tub\/tub.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 65851,
-		"inputAbbreviatedPath": "\/assets\/img\/projects\/round\/tub\/tubi.jpg",
-		"outputAbbreviatedPath": "\/assets\/img\/projects\/round\/tub\/tubi.jpg",
+		"initialSize": 38085,
+		"inputAbbreviatedPath": "\/assets\/img\/projects\/round\/tub\/tub.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/projects\/round\/tub\/tub.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -1991,183 +2036,183 @@
 		"outputAbbreviatedPath": "\/assets\/img\/projects\/round\/vacant\/Vacant.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
-	"\/assets\/img\/projects\/thumb\/automaton\/all.jpg": {
+	"\/assets\/img\/projects\/thumb\/auto\/all.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 32680,
-		"inputAbbreviatedPath": "\/assets\/img\/projects\/thumb\/automaton\/all.jpg",
-		"outputAbbreviatedPath": "\/assets\/img\/projects\/thumb\/automaton\/all.jpg",
+		"inputAbbreviatedPath": "\/assets\/img\/projects\/thumb\/auto\/all.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/projects\/thumb\/auto\/all.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
-	"\/assets\/img\/projects\/thumb\/automaton\/all2.jpg": {
+	"\/assets\/img\/projects\/thumb\/auto\/all2.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 44664,
-		"inputAbbreviatedPath": "\/assets\/img\/projects\/thumb\/automaton\/all2.jpg",
-		"outputAbbreviatedPath": "\/assets\/img\/projects\/thumb\/automaton\/all2.jpg",
+		"inputAbbreviatedPath": "\/assets\/img\/projects\/thumb\/auto\/all2.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/projects\/thumb\/auto\/all2.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
-	"\/assets\/img\/projects\/thumb\/automaton\/computer.jpg": {
+	"\/assets\/img\/projects\/thumb\/auto\/computer.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 32241,
-		"inputAbbreviatedPath": "\/assets\/img\/projects\/thumb\/automaton\/computer.jpg",
-		"outputAbbreviatedPath": "\/assets\/img\/projects\/thumb\/automaton\/computer.jpg",
+		"inputAbbreviatedPath": "\/assets\/img\/projects\/thumb\/auto\/computer.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/projects\/thumb\/auto\/computer.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
-	"\/assets\/img\/projects\/thumb\/automaton\/john fb.jpg": {
+	"\/assets\/img\/projects\/thumb\/auto\/john fb.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 25029,
-		"inputAbbreviatedPath": "\/assets\/img\/projects\/thumb\/automaton\/john fb.jpg",
-		"outputAbbreviatedPath": "\/assets\/img\/projects\/thumb\/automaton\/john fb.jpg",
+		"inputAbbreviatedPath": "\/assets\/img\/projects\/thumb\/auto\/john fb.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/projects\/thumb\/auto\/john fb.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
-	"\/assets\/img\/projects\/thumb\/automaton\/john.jpg": {
+	"\/assets\/img\/projects\/thumb\/auto\/john.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 29054,
-		"inputAbbreviatedPath": "\/assets\/img\/projects\/thumb\/automaton\/john.jpg",
-		"outputAbbreviatedPath": "\/assets\/img\/projects\/thumb\/automaton\/john.jpg",
+		"inputAbbreviatedPath": "\/assets\/img\/projects\/thumb\/auto\/john.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/projects\/thumb\/auto\/john.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
-	"\/assets\/img\/projects\/thumb\/automaton\/johncomments.jpg": {
+	"\/assets\/img\/projects\/thumb\/auto\/johncomments.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 41481,
-		"inputAbbreviatedPath": "\/assets\/img\/projects\/thumb\/automaton\/johncomments.jpg",
-		"outputAbbreviatedPath": "\/assets\/img\/projects\/thumb\/automaton\/johncomments.jpg",
+		"inputAbbreviatedPath": "\/assets\/img\/projects\/thumb\/auto\/johncomments.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/projects\/thumb\/auto\/johncomments.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
-	"\/assets\/img\/projects\/thumb\/automaton\/mark.jpg": {
+	"\/assets\/img\/projects\/thumb\/auto\/mark.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 36024,
-		"inputAbbreviatedPath": "\/assets\/img\/projects\/thumb\/automaton\/mark.jpg",
-		"outputAbbreviatedPath": "\/assets\/img\/projects\/thumb\/automaton\/mark.jpg",
+		"inputAbbreviatedPath": "\/assets\/img\/projects\/thumb\/auto\/mark.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/projects\/thumb\/auto\/mark.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
-	"\/assets\/img\/projects\/thumb\/automaton\/markcomments.jpg": {
+	"\/assets\/img\/projects\/thumb\/auto\/markcomments.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 26216,
-		"inputAbbreviatedPath": "\/assets\/img\/projects\/thumb\/automaton\/markcomments.jpg",
-		"outputAbbreviatedPath": "\/assets\/img\/projects\/thumb\/automaton\/markcomments.jpg",
+		"inputAbbreviatedPath": "\/assets\/img\/projects\/thumb\/auto\/markcomments.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/projects\/thumb\/auto\/markcomments.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
-	"\/assets\/img\/projects\/thumb\/automaton\/monitor.jpg": {
+	"\/assets\/img\/projects\/thumb\/auto\/monitor.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 33362,
-		"inputAbbreviatedPath": "\/assets\/img\/projects\/thumb\/automaton\/monitor.jpg",
-		"outputAbbreviatedPath": "\/assets\/img\/projects\/thumb\/automaton\/monitor.jpg",
+		"inputAbbreviatedPath": "\/assets\/img\/projects\/thumb\/auto\/monitor.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/projects\/thumb\/auto\/monitor.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
-	"\/assets\/img\/projects\/thumb\/automaton\/pere_final_paper.jpg": {
+	"\/assets\/img\/projects\/thumb\/auto\/pere_final_paper.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 31113,
-		"inputAbbreviatedPath": "\/assets\/img\/projects\/thumb\/automaton\/pere_final_paper.jpg",
-		"outputAbbreviatedPath": "\/assets\/img\/projects\/thumb\/automaton\/pere_final_paper.jpg",
+		"inputAbbreviatedPath": "\/assets\/img\/projects\/thumb\/auto\/pere_final_paper.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/projects\/thumb\/auto\/pere_final_paper.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
-	"\/assets\/img\/projects\/thumb\/automaton\/robo1 copy2.jpg": {
+	"\/assets\/img\/projects\/thumb\/auto\/robo1 copy2.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 40392,
-		"inputAbbreviatedPath": "\/assets\/img\/projects\/thumb\/automaton\/robo1 copy2.jpg",
-		"outputAbbreviatedPath": "\/assets\/img\/projects\/thumb\/automaton\/robo1 copy2.jpg",
+		"inputAbbreviatedPath": "\/assets\/img\/projects\/thumb\/auto\/robo1 copy2.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/projects\/thumb\/auto\/robo1 copy2.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
-	"\/assets\/img\/projects\/thumb\/automaton\/robo1 copy2a.jpg": {
+	"\/assets\/img\/projects\/thumb\/auto\/robo1 copy2a.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 38341,
-		"inputAbbreviatedPath": "\/assets\/img\/projects\/thumb\/automaton\/robo1 copy2a.jpg",
-		"outputAbbreviatedPath": "\/assets\/img\/projects\/thumb\/automaton\/robo1 copy2a.jpg",
+		"inputAbbreviatedPath": "\/assets\/img\/projects\/thumb\/auto\/robo1 copy2a.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/projects\/thumb\/auto\/robo1 copy2a.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
-	"\/assets\/img\/projects\/thumb\/automaton\/ROBO1.jpg": {
+	"\/assets\/img\/projects\/thumb\/auto\/ROBO1.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 33947,
-		"inputAbbreviatedPath": "\/assets\/img\/projects\/thumb\/automaton\/ROBO1.jpg",
-		"outputAbbreviatedPath": "\/assets\/img\/projects\/thumb\/automaton\/ROBO1.jpg",
+		"inputAbbreviatedPath": "\/assets\/img\/projects\/thumb\/auto\/ROBO1.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/projects\/thumb\/auto\/ROBO1.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
-	"\/assets\/img\/projects\/thumb\/automaton\/robo1a.jpg": {
+	"\/assets\/img\/projects\/thumb\/auto\/robo1a.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 38465,
-		"inputAbbreviatedPath": "\/assets\/img\/projects\/thumb\/automaton\/robo1a.jpg",
-		"outputAbbreviatedPath": "\/assets\/img\/projects\/thumb\/automaton\/robo1a.jpg",
+		"inputAbbreviatedPath": "\/assets\/img\/projects\/thumb\/auto\/robo1a.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/projects\/thumb\/auto\/robo1a.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
-	"\/assets\/img\/projects\/thumb\/automaton\/saRAH.jpg": {
+	"\/assets\/img\/projects\/thumb\/auto\/saRAH.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 30457,
-		"inputAbbreviatedPath": "\/assets\/img\/projects\/thumb\/automaton\/saRAH.jpg",
-		"outputAbbreviatedPath": "\/assets\/img\/projects\/thumb\/automaton\/saRAH.jpg",
+		"inputAbbreviatedPath": "\/assets\/img\/projects\/thumb\/auto\/saRAH.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/projects\/thumb\/auto\/saRAH.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
-	"\/assets\/img\/projects\/thumb\/automaton\/sarahcomment.jpg": {
+	"\/assets\/img\/projects\/thumb\/auto\/sarahcomment.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 32140,
-		"inputAbbreviatedPath": "\/assets\/img\/projects\/thumb\/automaton\/sarahcomment.jpg",
-		"outputAbbreviatedPath": "\/assets\/img\/projects\/thumb\/automaton\/sarahcomment.jpg",
+		"inputAbbreviatedPath": "\/assets\/img\/projects\/thumb\/auto\/sarahcomment.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/projects\/thumb\/auto\/sarahcomment.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/projects\/thumb\/bathroom\/1.jpg": {
 		"fileType": 16384,
@@ -2178,7 +2223,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/projects\/thumb\/bathroom\/1.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/projects\/thumb\/bathroom\/2.jpg": {
 		"fileType": 16384,
@@ -2189,7 +2234,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/projects\/thumb\/bathroom\/2.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/projects\/thumb\/bathroom\/3.jpg": {
 		"fileType": 16384,
@@ -2200,7 +2245,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/projects\/thumb\/bathroom\/3.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/projects\/thumb\/bathroom\/4.jpg": {
 		"fileType": 16384,
@@ -2211,7 +2256,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/projects\/thumb\/bathroom\/4.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/projects\/thumb\/bathroom\/5.jpg": {
 		"fileType": 16384,
@@ -2222,7 +2267,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/projects\/thumb\/bathroom\/5.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/projects\/thumb\/calendar\/0-cal1.jpg": {
 		"fileType": 16384,
@@ -2233,7 +2278,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/projects\/thumb\/calendar\/0-cal1.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/projects\/thumb\/calendar\/1-JAN.jpg": {
 		"fileType": 16384,
@@ -2244,7 +2289,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/projects\/thumb\/calendar\/1-JAN.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/projects\/thumb\/calendar\/10-OCT.jpg": {
 		"fileType": 16384,
@@ -2255,7 +2300,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/projects\/thumb\/calendar\/10-OCT.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/projects\/thumb\/calendar\/11-NOV.jpg": {
 		"fileType": 16384,
@@ -2266,7 +2311,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/projects\/thumb\/calendar\/11-NOV.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/projects\/thumb\/calendar\/12-DEC.jpg": {
 		"fileType": 16384,
@@ -2277,7 +2322,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/projects\/thumb\/calendar\/12-DEC.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/projects\/thumb\/calendar\/2-FEB.jpg": {
 		"fileType": 16384,
@@ -2288,7 +2333,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/projects\/thumb\/calendar\/2-FEB.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/projects\/thumb\/calendar\/3-MAR.jpg": {
 		"fileType": 16384,
@@ -2299,7 +2344,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/projects\/thumb\/calendar\/3-MAR.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/projects\/thumb\/calendar\/4-APR.jpg": {
 		"fileType": 16384,
@@ -2310,7 +2355,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/projects\/thumb\/calendar\/4-APR.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/projects\/thumb\/calendar\/5-MAY.jpg": {
 		"fileType": 16384,
@@ -2321,7 +2366,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/projects\/thumb\/calendar\/5-MAY.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/projects\/thumb\/calendar\/6-JUN.jpg": {
 		"fileType": 16384,
@@ -2332,7 +2377,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/projects\/thumb\/calendar\/6-JUN.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/projects\/thumb\/calendar\/7-JUL.jpg": {
 		"fileType": 16384,
@@ -2343,7 +2388,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/projects\/thumb\/calendar\/7-JUL.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/projects\/thumb\/calendar\/8-AUG.jpg": {
 		"fileType": 16384,
@@ -2354,7 +2399,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/projects\/thumb\/calendar\/8-AUG.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/projects\/thumb\/calendar\/9-SEP.jpg": {
 		"fileType": 16384,
@@ -2365,7 +2410,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/projects\/thumb\/calendar\/9-SEP.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/projects\/thumb\/calendar\/full_cal.jpg": {
 		"fileType": 16384,
@@ -2376,7 +2421,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/projects\/thumb\/calendar\/full_cal.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/projects\/thumb\/diptict\/Diptict-1.jpg": {
 		"fileType": 16384,
@@ -2387,7 +2432,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/projects\/thumb\/diptict\/Diptict-1.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/projects\/thumb\/diptict\/Diptict-2.jpg": {
 		"fileType": 16384,
@@ -2398,7 +2443,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/projects\/thumb\/diptict\/Diptict-2.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/projects\/thumb\/diptict\/Diptict-3.jpg": {
 		"fileType": 16384,
@@ -2409,7 +2454,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/projects\/thumb\/diptict\/Diptict-3.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/projects\/thumb\/elapse\/Elapse-0.jpg": {
 		"fileType": 16384,
@@ -2420,7 +2465,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/projects\/thumb\/elapse\/Elapse-0.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/projects\/thumb\/elapse\/Elapse-1.jpg": {
 		"fileType": 16384,
@@ -2431,7 +2476,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/projects\/thumb\/elapse\/Elapse-1.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/projects\/thumb\/elapse\/Elapse-10.jpg": {
 		"fileType": 16384,
@@ -2442,7 +2487,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/projects\/thumb\/elapse\/Elapse-10.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/projects\/thumb\/elapse\/Elapse-11.jpg": {
 		"fileType": 16384,
@@ -2453,7 +2498,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/projects\/thumb\/elapse\/Elapse-11.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/projects\/thumb\/elapse\/Elapse-2.jpg": {
 		"fileType": 16384,
@@ -2464,7 +2509,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/projects\/thumb\/elapse\/Elapse-2.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/projects\/thumb\/elapse\/Elapse-3.jpg": {
 		"fileType": 16384,
@@ -2475,7 +2520,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/projects\/thumb\/elapse\/Elapse-3.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/projects\/thumb\/elapse\/Elapse-4.jpg": {
 		"fileType": 16384,
@@ -2486,7 +2531,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/projects\/thumb\/elapse\/Elapse-4.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/projects\/thumb\/elapse\/Elapse-5.jpg": {
 		"fileType": 16384,
@@ -2497,7 +2542,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/projects\/thumb\/elapse\/Elapse-5.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/projects\/thumb\/elapse\/Elapse-6.jpg": {
 		"fileType": 16384,
@@ -2508,7 +2553,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/projects\/thumb\/elapse\/Elapse-6.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/projects\/thumb\/elapse\/Elapse-7.jpg": {
 		"fileType": 16384,
@@ -2519,7 +2564,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/projects\/thumb\/elapse\/Elapse-7.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/projects\/thumb\/elapse\/Elapse-8.jpg": {
 		"fileType": 16384,
@@ -2530,7 +2575,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/projects\/thumb\/elapse\/Elapse-8.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/projects\/thumb\/elapse\/Elapse-9.jpg": {
 		"fileType": 16384,
@@ -2541,7 +2586,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/projects\/thumb\/elapse\/Elapse-9.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/projects\/thumb\/fizzle\/0.jpg": {
 		"fileType": 16384,
@@ -2552,7 +2597,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/projects\/thumb\/fizzle\/0.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/projects\/thumb\/fizzle\/1.jpg": {
 		"fileType": 16384,
@@ -2563,7 +2608,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/projects\/thumb\/fizzle\/1.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/projects\/thumb\/fizzle\/2.jpg": {
 		"fileType": 16384,
@@ -2574,7 +2619,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/projects\/thumb\/fizzle\/2.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/projects\/thumb\/fizzle\/3.jpg": {
 		"fileType": 16384,
@@ -2585,7 +2630,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/projects\/thumb\/fizzle\/3.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/projects\/thumb\/fizzle\/4.jpg": {
 		"fileType": 16384,
@@ -2596,7 +2641,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/projects\/thumb\/fizzle\/4.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/projects\/thumb\/fizzle\/5.jpg": {
 		"fileType": 16384,
@@ -2607,7 +2652,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/projects\/thumb\/fizzle\/5.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/projects\/thumb\/fizzle\/6.jpg": {
 		"fileType": 16384,
@@ -2618,7 +2663,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/projects\/thumb\/fizzle\/6.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/projects\/thumb\/fizzle\/7.jpg": {
 		"fileType": 16384,
@@ -2629,7 +2674,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/projects\/thumb\/fizzle\/7.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/projects\/thumb\/fizzle\/8.jpg": {
 		"fileType": 16384,
@@ -2640,7 +2685,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/projects\/thumb\/fizzle\/8.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/projects\/thumb\/fizzle\/9.jpg": {
 		"fileType": 16384,
@@ -2651,7 +2696,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/projects\/thumb\/fizzle\/9.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/projects\/thumb\/fizzle\/site.jpg": {
 		"fileType": 16384,
@@ -2662,7 +2707,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/projects\/thumb\/fizzle\/site.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/projects\/thumb\/hand\/hands1.jpg": {
 		"fileType": 16384,
@@ -2673,7 +2718,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/projects\/thumb\/hand\/hands1.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/projects\/thumb\/hand\/hands2.jpg": {
 		"fileType": 16384,
@@ -2684,7 +2729,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/projects\/thumb\/hand\/hands2.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/projects\/thumb\/hand\/hands3.jpg": {
 		"fileType": 16384,
@@ -2695,7 +2740,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/projects\/thumb\/hand\/hands3.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/projects\/thumb\/hand\/hands4.jpg": {
 		"fileType": 16384,
@@ -2706,7 +2751,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/projects\/thumb\/hand\/hands4.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/projects\/thumb\/hand\/hands5.jpg": {
 		"fileType": 16384,
@@ -2717,7 +2762,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/projects\/thumb\/hand\/hands5.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/projects\/thumb\/misc\/melting-1.jpg": {
 		"fileType": 16384,
@@ -2728,7 +2773,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/projects\/thumb\/misc\/melting-1.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/projects\/thumb\/misc\/melting-2.jpg": {
 		"fileType": 16384,
@@ -2739,7 +2784,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/projects\/thumb\/misc\/melting-2.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/projects\/thumb\/misc\/melting-3.jpg": {
 		"fileType": 16384,
@@ -2750,7 +2795,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/projects\/thumb\/misc\/melting-3.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/projects\/thumb\/misc\/melting-4.jpg": {
 		"fileType": 16384,
@@ -2761,26 +2806,26 @@
 		"outputAbbreviatedPath": "\/assets\/img\/projects\/thumb\/misc\/melting-4.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
-	"\/assets\/img\/projects\/thumb\/still_life\/22222.jpg": {
+	"\/assets\/img\/projects\/thumb\/still\/22222.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 53186,
-		"inputAbbreviatedPath": "\/assets\/img\/projects\/thumb\/still_life\/22222.jpg",
-		"outputAbbreviatedPath": "\/assets\/img\/projects\/thumb\/still_life\/22222.jpg",
+		"inputAbbreviatedPath": "\/assets\/img\/projects\/thumb\/still\/22222.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/projects\/thumb\/still\/22222.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
-	"\/assets\/img\/projects\/thumb\/still_life\/still_life.jpg": {
+	"\/assets\/img\/projects\/thumb\/still\/still.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 41638,
-		"inputAbbreviatedPath": "\/assets\/img\/projects\/thumb\/still_life\/still_life.jpg",
-		"outputAbbreviatedPath": "\/assets\/img\/projects\/thumb\/still_life\/still_life.jpg",
+		"initialSize": 22371,
+		"inputAbbreviatedPath": "\/assets\/img\/projects\/thumb\/still\/still.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/projects\/thumb\/still\/still.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -2794,7 +2839,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/projects\/thumb\/vacant\/Vacant-10.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/projects\/thumb\/vacant\/Vacant-11.jpg": {
 		"fileType": 16384,
@@ -2805,7 +2850,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/projects\/thumb\/vacant\/Vacant-11.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/projects\/thumb\/vacant\/Vacant-12.jpg": {
 		"fileType": 16384,
@@ -2816,7 +2861,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/projects\/thumb\/vacant\/Vacant-12.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/projects\/thumb\/vacant\/Vacant-13.jpg": {
 		"fileType": 16384,
@@ -2827,7 +2872,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/projects\/thumb\/vacant\/Vacant-13.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/projects\/thumb\/vacant\/Vacant-14.jpg": {
 		"fileType": 16384,
@@ -2838,7 +2883,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/projects\/thumb\/vacant\/Vacant-14.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/projects\/thumb\/vacant\/Vacant-15.jpg": {
 		"fileType": 16384,
@@ -2849,7 +2894,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/projects\/thumb\/vacant\/Vacant-15.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/projects\/thumb\/vacant\/Vacant-16.jpg": {
 		"fileType": 16384,
@@ -2860,7 +2905,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/projects\/thumb\/vacant\/Vacant-16.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/projects\/thumb\/vacant\/Vacant-17.jpg": {
 		"fileType": 16384,
@@ -2871,7 +2916,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/projects\/thumb\/vacant\/Vacant-17.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/projects\/thumb\/vacant\/Vacant-18.jpg": {
 		"fileType": 16384,
@@ -2882,7 +2927,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/projects\/thumb\/vacant\/Vacant-18.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/projects\/thumb\/vacant\/Vacant-19.jpg": {
 		"fileType": 16384,
@@ -2893,7 +2938,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/projects\/thumb\/vacant\/Vacant-19.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/projects\/thumb\/vacant\/Vacant-2.jpg": {
 		"fileType": 16384,
@@ -2904,7 +2949,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/projects\/thumb\/vacant\/Vacant-2.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/projects\/thumb\/vacant\/Vacant-20.jpg": {
 		"fileType": 16384,
@@ -2915,7 +2960,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/projects\/thumb\/vacant\/Vacant-20.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/projects\/thumb\/vacant\/Vacant-21.jpg": {
 		"fileType": 16384,
@@ -2926,7 +2971,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/projects\/thumb\/vacant\/Vacant-21.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/projects\/thumb\/vacant\/Vacant-22.jpg": {
 		"fileType": 16384,
@@ -2937,7 +2982,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/projects\/thumb\/vacant\/Vacant-22.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/projects\/thumb\/vacant\/Vacant-23.jpg": {
 		"fileType": 16384,
@@ -2948,7 +2993,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/projects\/thumb\/vacant\/Vacant-23.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/projects\/thumb\/vacant\/Vacant-24.jpg": {
 		"fileType": 16384,
@@ -2959,7 +3004,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/projects\/thumb\/vacant\/Vacant-24.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/projects\/thumb\/vacant\/Vacant-25.jpg": {
 		"fileType": 16384,
@@ -2970,7 +3015,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/projects\/thumb\/vacant\/Vacant-25.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/projects\/thumb\/vacant\/Vacant-26.jpg": {
 		"fileType": 16384,
@@ -2981,7 +3026,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/projects\/thumb\/vacant\/Vacant-26.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/projects\/thumb\/vacant\/Vacant-27.jpg": {
 		"fileType": 16384,
@@ -2992,7 +3037,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/projects\/thumb\/vacant\/Vacant-27.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/projects\/thumb\/vacant\/Vacant-28.jpg": {
 		"fileType": 16384,
@@ -3003,7 +3048,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/projects\/thumb\/vacant\/Vacant-28.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/projects\/thumb\/vacant\/Vacant-29.jpg": {
 		"fileType": 16384,
@@ -3014,7 +3059,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/projects\/thumb\/vacant\/Vacant-29.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/projects\/thumb\/vacant\/Vacant-3.jpg": {
 		"fileType": 16384,
@@ -3025,7 +3070,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/projects\/thumb\/vacant\/Vacant-3.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/projects\/thumb\/vacant\/Vacant-30.jpg": {
 		"fileType": 16384,
@@ -3036,7 +3081,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/projects\/thumb\/vacant\/Vacant-30.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/projects\/thumb\/vacant\/Vacant-31.jpg": {
 		"fileType": 16384,
@@ -3047,7 +3092,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/projects\/thumb\/vacant\/Vacant-31.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/projects\/thumb\/vacant\/Vacant-32.jpg": {
 		"fileType": 16384,
@@ -3058,7 +3103,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/projects\/thumb\/vacant\/Vacant-32.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/projects\/thumb\/vacant\/Vacant-36.jpg": {
 		"fileType": 16384,
@@ -3069,7 +3114,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/projects\/thumb\/vacant\/Vacant-36.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/projects\/thumb\/vacant\/Vacant-37.jpg": {
 		"fileType": 16384,
@@ -3080,7 +3125,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/projects\/thumb\/vacant\/Vacant-37.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/projects\/thumb\/vacant\/Vacant-38.jpg": {
 		"fileType": 16384,
@@ -3091,7 +3136,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/projects\/thumb\/vacant\/Vacant-38.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/projects\/thumb\/vacant\/Vacant-39.jpg": {
 		"fileType": 16384,
@@ -3102,7 +3147,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/projects\/thumb\/vacant\/Vacant-39.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/projects\/thumb\/vacant\/Vacant-40.jpg": {
 		"fileType": 16384,
@@ -3113,7 +3158,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/projects\/thumb\/vacant\/Vacant-40.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/projects\/thumb\/vacant\/Vacant-41.jpg": {
 		"fileType": 16384,
@@ -3124,7 +3169,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/projects\/thumb\/vacant\/Vacant-41.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/projects\/thumb\/vacant\/Vacant-5.jpg": {
 		"fileType": 16384,
@@ -3135,7 +3180,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/projects\/thumb\/vacant\/Vacant-5.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/projects\/thumb\/vacant\/Vacant-6.jpg": {
 		"fileType": 16384,
@@ -3146,7 +3191,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/projects\/thumb\/vacant\/Vacant-6.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/projects\/thumb\/vacant\/Vacant-8.jpg": {
 		"fileType": 16384,
@@ -3157,7 +3202,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/projects\/thumb\/vacant\/Vacant-8.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/img\/projects\/thumb\/vacant\/Vacant-9.jpg": {
 		"fileType": 16384,
@@ -3168,7 +3213,7 @@
 		"outputAbbreviatedPath": "\/assets\/img\/projects\/thumb\/vacant\/Vacant-9.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/lib\/fancybox\/fancybox_overlay.png": {
 		"fileType": 32768,
@@ -3179,7 +3224,7 @@
 		"outputAbbreviatedPath": "\/assets\/lib\/fancybox\/fancybox_overlay.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/lib\/fancybox\/fancybox_sprite.png": {
 		"fileType": 32768,
@@ -3190,7 +3235,7 @@
 		"outputAbbreviatedPath": "\/assets\/lib\/fancybox\/fancybox_sprite.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/lib\/fancybox\/fancybox_sprite@2x.png": {
 		"fileType": 32768,
@@ -3201,7 +3246,7 @@
 		"outputAbbreviatedPath": "\/assets\/lib\/fancybox\/fancybox_sprite@2x.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/lib\/fancybox\/helpers\/fancybox_buttons.png": {
 		"fileType": 32768,
@@ -3212,7 +3257,7 @@
 		"outputAbbreviatedPath": "\/assets\/lib\/fancybox\/helpers\/fancybox_buttons.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/assets\/lib\/fancybox\/helpers\/jquery.fancybox-buttons.css": {
 		"fileType": 16,
@@ -3228,7 +3273,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/assets\/lib\/fancybox\/helpers\/jquery.fancybox-buttons.js",
-		"outputAbbreviatedPath": "\/assets\/lib\/fancybox\/helpers\/min\/jquery.fancybox-buttons-min.js",
+		"outputAbbreviatedPath": "\/assets\/lib\/fancybox\/helpers\/jquery.fancybox-buttons.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -3239,7 +3284,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/assets\/lib\/fancybox\/helpers\/jquery.fancybox-media.js",
-		"outputAbbreviatedPath": "\/assets\/lib\/fancybox\/helpers\/min\/jquery.fancybox-media-min.js",
+		"outputAbbreviatedPath": "\/assets\/lib\/fancybox\/helpers\/jquery.fancybox-media.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -3259,7 +3304,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/assets\/lib\/fancybox\/helpers\/jquery.fancybox-thumbs.js",
-		"outputAbbreviatedPath": "\/assets\/lib\/fancybox\/helpers\/min\/jquery.fancybox-thumbs-min.js",
+		"outputAbbreviatedPath": "\/assets\/lib\/fancybox\/helpers\/jquery.fancybox-thumbs.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -3279,7 +3324,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/assets\/lib\/fancybox\/jquery.fancybox.js",
-		"outputAbbreviatedPath": "\/assets\/lib\/fancybox\/min\/jquery.fancybox-min.js",
+		"outputAbbreviatedPath": "\/assets\/lib\/fancybox\/jquery.fancybox.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -3290,7 +3335,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/assets\/lib\/fancybox\/jquery.fancybox.pack.js",
-		"outputAbbreviatedPath": "\/assets\/lib\/fancybox\/min\/jquery.fancybox.pack-min.js",
+		"outputAbbreviatedPath": "\/assets\/lib\/fancybox\/jquery.fancybox.pack.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -3301,7 +3346,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/assets\/lib\/jquery-1.10.1.min.js",
-		"outputAbbreviatedPath": "\/assets\/lib\/min\/jquery-1.10.1.min-min.js",
+		"outputAbbreviatedPath": "\/assets\/lib\/jquery-1.10.1.min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -3312,7 +3357,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/assets\/lib\/jquery-1.9.0.min.js",
-		"outputAbbreviatedPath": "\/assets\/lib\/min\/jquery-1.9.0.min-min.js",
+		"outputAbbreviatedPath": "\/assets\/lib\/jquery-1.9.0.min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -3323,473 +3368,1102 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/assets\/lib\/jquery.mousewheel-3.0.6.pack.js",
-		"outputAbbreviatedPath": "\/assets\/lib\/min\/jquery.mousewheel-3.0.6.pack-min.js",
+		"outputAbbreviatedPath": "\/assets\/lib\/jquery.mousewheel-3.0.6.pack.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
-	"\/develp\/jade\/3d\/bathroom\/index.jade": {
+	"\/config.rb": {
+		"fileType": 131072,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/config.rb",
+		"outputAbbreviatedPath": "\/config.rb",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/contact\/index.html": {
+		"fileType": 8192,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/contact\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/develop\/jade\/3d\/bathroom\/index.jade": {
 		"compileDebug": 1,
 		"fileType": 512,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/develp\/jade\/3d\/bathroom\/index.jade",
-		"outputAbbreviatedPath": "\/develp\/jade\/3d\/bathroom\/index.html",
+		"inputAbbreviatedPath": "\/develop\/jade\/3d\/bathroom\/index.jade",
+		"outputAbbreviatedPath": "\/3d\/bathroom\/index.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0
 		},
-	"\/develp\/jade\/3d\/index.jade": {
+	"\/develop\/jade\/3d\/index.jade": {
 		"compileDebug": 1,
 		"fileType": 512,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/develp\/jade\/3d\/index.jade",
-		"outputAbbreviatedPath": "\/develp\/jade\/3d\/index.html",
+		"inputAbbreviatedPath": "\/develop\/jade\/3d\/index.jade",
+		"outputAbbreviatedPath": "\/3d\/index.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0
 		},
-	"\/develp\/jade\/3d\/misc\/index.jade": {
+	"\/develop\/jade\/3d\/misc\/index.jade": {
 		"compileDebug": 1,
 		"fileType": 512,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/develp\/jade\/3d\/misc\/index.jade",
-		"outputAbbreviatedPath": "\/develp\/jade\/3d\/misc\/index.html",
+		"inputAbbreviatedPath": "\/develop\/jade\/3d\/misc\/index.jade",
+		"outputAbbreviatedPath": "\/3d\/misc\/index.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0
 		},
-	"\/develp\/jade\/3d\/shape\/index.jade": {
+	"\/develop\/jade\/3d\/shape\/index.jade": {
 		"compileDebug": 1,
 		"fileType": 512,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/develp\/jade\/3d\/shape\/index.jade",
-		"outputAbbreviatedPath": "\/develp\/jade\/3d\/shape\/index.html",
+		"inputAbbreviatedPath": "\/develop\/jade\/3d\/shape\/index.jade",
+		"outputAbbreviatedPath": "\/3d\/shape\/index.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0
 		},
-	"\/develp\/jade\/3d\/still\/index.jade": {
+	"\/develop\/jade\/3d\/still\/index.jade": {
 		"compileDebug": 1,
 		"fileType": 512,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/develp\/jade\/3d\/still\/index.jade",
-		"outputAbbreviatedPath": "\/develp\/jade\/3d\/still\/index.html",
+		"inputAbbreviatedPath": "\/develop\/jade\/3d\/still\/index.jade",
+		"outputAbbreviatedPath": "\/3d\/still\/index.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0
 		},
-	"\/develp\/jade\/about\/index.jade": {
+	"\/develop\/jade\/about\/index.jade": {
 		"compileDebug": 1,
 		"fileType": 512,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/develp\/jade\/about\/index.jade",
-		"outputAbbreviatedPath": "\/develp\/jade\/about\/index.html",
+		"inputAbbreviatedPath": "\/develop\/jade\/about\/index.jade",
+		"outputAbbreviatedPath": "\/about\/index.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0
 		},
-	"\/develp\/jade\/book\/index.jade": {
+	"\/develop\/jade\/book\/index.jade": {
 		"compileDebug": 1,
 		"fileType": 512,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/develp\/jade\/book\/index.jade",
-		"outputAbbreviatedPath": "\/develp\/jade\/book\/index.html",
+		"inputAbbreviatedPath": "\/develop\/jade\/book\/index.jade",
+		"outputAbbreviatedPath": "\/book\/index.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0
 		},
-	"\/develp\/jade\/book\/tub\/index.jade": {
+	"\/develop\/jade\/book\/tub\/index.jade": {
 		"compileDebug": 1,
 		"fileType": 512,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/develp\/jade\/book\/tub\/index.jade",
-		"outputAbbreviatedPath": "\/develp\/jade\/book\/tub\/index.html",
+		"inputAbbreviatedPath": "\/develop\/jade\/book\/tub\/index.jade",
+		"outputAbbreviatedPath": "\/book\/tub\/index.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0
 		},
-	"\/develp\/jade\/contact\/index.jade": {
+	"\/develop\/jade\/contact\/index.jade": {
 		"compileDebug": 1,
 		"fileType": 512,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/develp\/jade\/contact\/index.jade",
-		"outputAbbreviatedPath": "\/develp\/jade\/contact\/index.html",
+		"inputAbbreviatedPath": "\/develop\/jade\/contact\/index.jade",
+		"outputAbbreviatedPath": "\/contact\/index.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0
 		},
-	"\/develp\/jade\/digi\/hand\/index.jade": {
+	"\/develop\/jade\/digi\/hand\/index.jade": {
 		"compileDebug": 1,
 		"fileType": 512,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/develp\/jade\/digi\/hand\/index.jade",
-		"outputAbbreviatedPath": "\/develp\/jade\/digi\/hand\/index.html",
+		"inputAbbreviatedPath": "\/develop\/jade\/digi\/hand\/index.jade",
+		"outputAbbreviatedPath": "\/digi\/hand\/index.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0
 		},
-	"\/develp\/jade\/digi\/index.jade": {
+	"\/develop\/jade\/digi\/index.jade": {
 		"compileDebug": 1,
 		"fileType": 512,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/develp\/jade\/digi\/index.jade",
-		"outputAbbreviatedPath": "\/develp\/jade\/digi\/index.html",
+		"inputAbbreviatedPath": "\/develop\/jade\/digi\/index.jade",
+		"outputAbbreviatedPath": "\/digi\/index.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0
 		},
-	"\/develp\/jade\/digi\/self\/index.jade": {
+	"\/develop\/jade\/digi\/self\/index.jade": {
 		"compileDebug": 1,
 		"fileType": 512,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/develp\/jade\/digi\/self\/index.jade",
-		"outputAbbreviatedPath": "\/develp\/jade\/digi\/self\/index.html",
+		"inputAbbreviatedPath": "\/develop\/jade\/digi\/self\/index.jade",
+		"outputAbbreviatedPath": "\/digi\/self\/index.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0
 		},
-	"\/develp\/jade\/digi\/time\/index.jade": {
+	"\/develop\/jade\/digi\/time\/index.jade": {
 		"compileDebug": 1,
 		"fileType": 512,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/develp\/jade\/digi\/time\/index.jade",
-		"outputAbbreviatedPath": "\/develp\/jade\/digi\/time\/index.html",
+		"inputAbbreviatedPath": "\/develop\/jade\/digi\/time\/index.jade",
+		"outputAbbreviatedPath": "\/digi\/time\/index.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0
 		},
-	"\/develp\/jade\/graphic\/calendar\/index.jade": {
+	"\/develop\/jade\/graph\/calendar\/index.jade": {
 		"compileDebug": 1,
 		"fileType": 512,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/develp\/jade\/graphic\/calendar\/index.jade",
-		"outputAbbreviatedPath": "\/develp\/jade\/graphic\/calendar\/index.html",
+		"inputAbbreviatedPath": "\/develop\/jade\/graph\/calendar\/index.jade",
+		"outputAbbreviatedPath": "\/graph\/calendar\/index.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0
 		},
-	"\/develp\/jade\/graphic\/characters\/index.jade": {
+	"\/develop\/jade\/graph\/characters\/index.jade": {
 		"compileDebug": 1,
 		"fileType": 512,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/develp\/jade\/graphic\/characters\/index.jade",
-		"outputAbbreviatedPath": "\/develp\/jade\/graphic\/characters\/index.html",
+		"inputAbbreviatedPath": "\/develop\/jade\/graph\/characters\/index.jade",
+		"outputAbbreviatedPath": "\/graph\/characters\/index.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0
 		},
-	"\/develp\/jade\/graphic\/fizzle\/index.jade": {
+	"\/develop\/jade\/graph\/fizzle\/index.jade": {
 		"compileDebug": 1,
 		"fileType": 512,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/develp\/jade\/graphic\/fizzle\/index.jade",
-		"outputAbbreviatedPath": "\/develp\/jade\/graphic\/fizzle\/index.html",
+		"inputAbbreviatedPath": "\/develop\/jade\/graph\/fizzle\/index.jade",
+		"outputAbbreviatedPath": "\/graph\/fizzle\/index.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0
 		},
-	"\/develp\/jade\/graphic\/fizzle\/site\/about.jade": {
+	"\/develop\/jade\/graph\/fizzle\/site\/about.jade": {
 		"compileDebug": 1,
 		"fileType": 512,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/develp\/jade\/graphic\/fizzle\/site\/about.jade",
-		"outputAbbreviatedPath": "\/develp\/jade\/graphic\/fizzle\/site\/about.html",
+		"inputAbbreviatedPath": "\/develop\/jade\/graph\/fizzle\/site\/about.jade",
+		"outputAbbreviatedPath": "\/graph\/fizzle\/site\/about.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0
 		},
-	"\/develp\/jade\/graphic\/fizzle\/site\/buy.jade": {
+	"\/develop\/jade\/graph\/fizzle\/site\/buy.jade": {
 		"compileDebug": 1,
 		"fileType": 512,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/develp\/jade\/graphic\/fizzle\/site\/buy.jade",
-		"outputAbbreviatedPath": "\/develp\/jade\/graphic\/fizzle\/site\/buy.html",
+		"inputAbbreviatedPath": "\/develop\/jade\/graph\/fizzle\/site\/buy.jade",
+		"outputAbbreviatedPath": "\/graph\/fizzle\/site\/buy.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0
 		},
-	"\/develp\/jade\/graphic\/fizzle\/site\/contact.jade": {
+	"\/develop\/jade\/graph\/fizzle\/site\/contact.jade": {
 		"compileDebug": 1,
 		"fileType": 512,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/develp\/jade\/graphic\/fizzle\/site\/contact.jade",
-		"outputAbbreviatedPath": "\/develp\/jade\/graphic\/fizzle\/site\/contact.html",
+		"inputAbbreviatedPath": "\/develop\/jade\/graph\/fizzle\/site\/contact.jade",
+		"outputAbbreviatedPath": "\/graph\/fizzle\/site\/contact.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0
 		},
-	"\/develp\/jade\/graphic\/fizzle\/site\/home.jade": {
+	"\/develop\/jade\/graph\/fizzle\/site\/home.jade": {
 		"compileDebug": 1,
 		"fileType": 512,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/develp\/jade\/graphic\/fizzle\/site\/home.jade",
-		"outputAbbreviatedPath": "\/develp\/jade\/graphic\/fizzle\/site\/home.html",
+		"inputAbbreviatedPath": "\/develop\/jade\/graph\/fizzle\/site\/home.jade",
+		"outputAbbreviatedPath": "\/graph\/fizzle\/site\/home.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0
 		},
-	"\/develp\/jade\/graphic\/fizzle\/site\/index.jade": {
+	"\/develop\/jade\/graph\/fizzle\/site\/index.jade": {
 		"compileDebug": 1,
 		"fileType": 512,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/develp\/jade\/graphic\/fizzle\/site\/index.jade",
-		"outputAbbreviatedPath": "\/develp\/jade\/graphic\/fizzle\/site\/index.html",
+		"inputAbbreviatedPath": "\/develop\/jade\/graph\/fizzle\/site\/index.jade",
+		"outputAbbreviatedPath": "\/graph\/fizzle\/site\/index.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0
 		},
-	"\/develp\/jade\/graphic\/fizzle\/site\/submit.jade": {
+	"\/develop\/jade\/graph\/fizzle\/site\/submit.jade": {
 		"compileDebug": 1,
 		"fileType": 512,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/develp\/jade\/graphic\/fizzle\/site\/submit.jade",
-		"outputAbbreviatedPath": "\/develp\/jade\/graphic\/fizzle\/site\/submit.html",
+		"inputAbbreviatedPath": "\/develop\/jade\/graph\/fizzle\/site\/submit.jade",
+		"outputAbbreviatedPath": "\/graph\/fizzle\/site\/submit.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0
 		},
-	"\/develp\/jade\/graphic\/index.jade": {
+	"\/develop\/jade\/graph\/index.jade": {
 		"compileDebug": 1,
 		"fileType": 512,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/develp\/jade\/graphic\/index.jade",
-		"outputAbbreviatedPath": "\/develp\/jade\/graphic\/index.html",
+		"inputAbbreviatedPath": "\/develop\/jade\/graph\/index.jade",
+		"outputAbbreviatedPath": "\/graph\/index.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0
 		},
-	"\/develp\/jade\/graphic\/logos\/index.jade": {
+	"\/develop\/jade\/graph\/logos\/index.jade": {
 		"compileDebug": 1,
 		"fileType": 512,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/develp\/jade\/graphic\/logos\/index.jade",
-		"outputAbbreviatedPath": "\/develp\/jade\/graphic\/logos\/index.html",
+		"inputAbbreviatedPath": "\/develop\/jade\/graph\/logos\/index.jade",
+		"outputAbbreviatedPath": "\/graph\/logos\/index.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0
 		},
-	"\/develp\/jade\/graphic\/posters\/index.jade": {
+	"\/develop\/jade\/graph\/posters\/index.jade": {
 		"compileDebug": 1,
 		"fileType": 512,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/develp\/jade\/graphic\/posters\/index.jade",
-		"outputAbbreviatedPath": "\/develp\/jade\/graphic\/posters\/index.html",
+		"inputAbbreviatedPath": "\/develop\/jade\/graph\/posters\/index.jade",
+		"outputAbbreviatedPath": "\/graph\/posters\/index.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0
 		},
-	"\/develp\/jade\/index.jade": {
+	"\/develop\/jade\/index.jade": {
 		"compileDebug": 1,
 		"fileType": 512,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/develp\/jade\/index.jade",
-		"outputAbbreviatedPath": "\/develp\/jade\/index.html",
+		"inputAbbreviatedPath": "\/develop\/jade\/index.jade",
+		"outputAbbreviatedPath": "\/index.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0
 		},
-	"\/develp\/jade\/photography\/Dipticts\/index.jade": {
-		"compileDebug": 1,
-		"fileType": 512,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/develp\/jade\/photography\/Dipticts\/index.jade",
-		"outputAbbreviatedPath": "\/develp\/jade\/photography\/Dipticts\/index.html",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 0
-		},
-	"\/develp\/jade\/photography\/Elapse\/index.jade": {
-		"compileDebug": 1,
-		"fileType": 512,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/develp\/jade\/photography\/Elapse\/index.jade",
-		"outputAbbreviatedPath": "\/develp\/jade\/photography\/Elapse\/index.html",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 0
-		},
-	"\/develp\/jade\/photography\/index.jade": {
-		"compileDebug": 1,
-		"fileType": 512,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/develp\/jade\/photography\/index.jade",
-		"outputAbbreviatedPath": "\/develp\/jade\/photography\/index.html",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 0
-		},
-	"\/develp\/jade\/photography\/Vacant\/index.jade": {
-		"compileDebug": 1,
-		"fileType": 512,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/develp\/jade\/photography\/Vacant\/index.jade",
-		"outputAbbreviatedPath": "\/develp\/jade\/photography\/Vacant\/index.html",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 0
-		},
-	"\/develp\/jade\/phy_comp\/automaton\/index.jade": {
-		"compileDebug": 1,
-		"fileType": 512,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/develp\/jade\/phy_comp\/automaton\/index.jade",
-		"outputAbbreviatedPath": "\/develp\/jade\/phy_comp\/automaton\/index.html",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 0
-		},
-	"\/develp\/jade\/phy_comp\/current\/index.jade": {
-		"compileDebug": 1,
-		"fileType": 512,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/develp\/jade\/phy_comp\/current\/index.jade",
-		"outputAbbreviatedPath": "\/develp\/jade\/phy_comp\/current\/index.html",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 0
-		},
-	"\/develp\/jade\/phy_comp\/index.jade": {
-		"compileDebug": 1,
-		"fileType": 512,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/develp\/jade\/phy_comp\/index.jade",
-		"outputAbbreviatedPath": "\/develp\/jade\/phy_comp\/index.html",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 0
-		},
-	"\/develp\/jade\/templates\/_footer.jade": {
+	"\/develop\/jade\/partials\/_data.jade": {
 		"compileDebug": 1,
 		"fileType": 512,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/develp\/jade\/templates\/_footer.jade",
-		"outputAbbreviatedPath": "\/develp\/jade\/templates\/_footer.html",
+		"inputAbbreviatedPath": "\/develop\/jade\/partials\/_data.jade",
+		"outputAbbreviatedPath": "\/partials\/_data.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0
 		},
-	"\/develp\/jade\/templates\/_layout.jade": {
+	"\/develop\/jade\/partials\/_data.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/develop\/jade\/partials\/_data.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/develop\/jade\/partials\/_data-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/develop\/jade\/partials\/_footer.jade": {
 		"compileDebug": 1,
 		"fileType": 512,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/develp\/jade\/templates\/_layout.jade",
-		"outputAbbreviatedPath": "\/develp\/jade\/templates\/_layout.html",
+		"inputAbbreviatedPath": "\/develop\/jade\/partials\/_footer.jade",
+		"outputAbbreviatedPath": "\/partials\/_footer.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0
 		},
-	"\/develp\/jade\/templates\/_logo.jade": {
+	"\/develop\/jade\/partials\/_logo.jade": {
 		"compileDebug": 1,
 		"fileType": 512,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/develp\/jade\/templates\/_logo.jade",
-		"outputAbbreviatedPath": "\/develp\/jade\/templates\/_logo.html",
+		"inputAbbreviatedPath": "\/develop\/jade\/partials\/_logo.jade",
+		"outputAbbreviatedPath": "\/partials\/_logo.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0
 		},
-	"\/develp\/jade\/templates\/_nav.jade": {
+	"\/develop\/jade\/partials\/_nav.jade": {
 		"compileDebug": 1,
 		"fileType": 512,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/develp\/jade\/templates\/_nav.jade",
-		"outputAbbreviatedPath": "\/develp\/jade\/templates\/_nav.html",
+		"inputAbbreviatedPath": "\/develop\/jade\/partials\/_nav.jade",
+		"outputAbbreviatedPath": "\/partials\/_nav.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0
 		},
-	"\/develp\/jade\/video\/amel\/index.jade": {
+	"\/develop\/jade\/photo\/diptict\/index.jade": {
 		"compileDebug": 1,
 		"fileType": 512,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/develp\/jade\/video\/amel\/index.jade",
-		"outputAbbreviatedPath": "\/develp\/jade\/video\/amel\/index.html",
+		"inputAbbreviatedPath": "\/develop\/jade\/photo\/diptict\/index.jade",
+		"outputAbbreviatedPath": "\/photo\/diptict\/index.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0
 		},
-	"\/develp\/jade\/video\/due\/index.jade": {
+	"\/develop\/jade\/photo\/elapse\/index.jade": {
 		"compileDebug": 1,
 		"fileType": 512,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/develp\/jade\/video\/due\/index.jade",
-		"outputAbbreviatedPath": "\/develp\/jade\/video\/due\/index.html",
+		"inputAbbreviatedPath": "\/develop\/jade\/photo\/elapse\/index.jade",
+		"outputAbbreviatedPath": "\/photo\/elapse\/index.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0
 		},
-	"\/develp\/jade\/video\/eg\/index.jade": {
+	"\/develop\/jade\/photo\/index.jade": {
 		"compileDebug": 1,
 		"fileType": 512,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/develp\/jade\/video\/eg\/index.jade",
-		"outputAbbreviatedPath": "\/develp\/jade\/video\/eg\/index.html",
+		"inputAbbreviatedPath": "\/develop\/jade\/photo\/index.jade",
+		"outputAbbreviatedPath": "\/photo\/index.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0
 		},
-	"\/develp\/jade\/video\/index.jade": {
+	"\/develop\/jade\/photo\/vacant\/index.jade": {
 		"compileDebug": 1,
 		"fileType": 512,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/develp\/jade\/video\/index.jade",
-		"outputAbbreviatedPath": "\/develp\/jade\/video\/index.html",
+		"inputAbbreviatedPath": "\/develop\/jade\/photo\/vacant\/index.jade",
+		"outputAbbreviatedPath": "\/photo\/vacant\/index.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0
 		},
-	"\/develp\/jade\/video\/lap\/index.jade": {
+	"\/develop\/jade\/phys\/automaton\/index.jade": {
 		"compileDebug": 1,
 		"fileType": 512,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/develp\/jade\/video\/lap\/index.jade",
-		"outputAbbreviatedPath": "\/develp\/jade\/video\/lap\/index.html",
+		"inputAbbreviatedPath": "\/develop\/jade\/phys\/automaton\/index.jade",
+		"outputAbbreviatedPath": "\/phys\/automaton\/index.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0
+		},
+	"\/develop\/jade\/phys\/current\/index.jade": {
+		"compileDebug": 1,
+		"fileType": 512,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/develop\/jade\/phys\/current\/index.jade",
+		"outputAbbreviatedPath": "\/phys\/current\/index.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0
+		},
+	"\/develop\/jade\/phys\/index.jade": {
+		"compileDebug": 1,
+		"fileType": 512,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/develop\/jade\/phys\/index.jade",
+		"outputAbbreviatedPath": "\/phys\/index.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0
+		},
+	"\/develop\/jade\/templates\/_layout.jade": {
+		"compileDebug": 1,
+		"fileType": 512,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/develop\/jade\/templates\/_layout.jade",
+		"outputAbbreviatedPath": "\/templates\/_layout.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0
+		},
+	"\/develop\/jade\/templates\/_parent.jade": {
+		"compileDebug": 1,
+		"fileType": 512,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/develop\/jade\/templates\/_parent.jade",
+		"outputAbbreviatedPath": "\/templates\/_parent.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0
+		},
+	"\/develop\/jade\/video\/amel\/index.jade": {
+		"compileDebug": 1,
+		"fileType": 512,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/develop\/jade\/video\/amel\/index.jade",
+		"outputAbbreviatedPath": "\/video\/amel\/index.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0
+		},
+	"\/develop\/jade\/video\/due\/index.jade": {
+		"compileDebug": 1,
+		"fileType": 512,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/develop\/jade\/video\/due\/index.jade",
+		"outputAbbreviatedPath": "\/video\/due\/index.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0
+		},
+	"\/develop\/jade\/video\/eg\/index.jade": {
+		"compileDebug": 1,
+		"fileType": 512,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/develop\/jade\/video\/eg\/index.jade",
+		"outputAbbreviatedPath": "\/video\/eg\/index.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0
+		},
+	"\/develop\/jade\/video\/index.jade": {
+		"compileDebug": 1,
+		"fileType": 512,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/develop\/jade\/video\/index.jade",
+		"outputAbbreviatedPath": "\/video\/index.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0
+		},
+	"\/develop\/jade\/video\/lap\/index.jade": {
+		"compileDebug": 1,
+		"fileType": 512,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/develop\/jade\/video\/lap\/index.jade",
+		"outputAbbreviatedPath": "\/video\/lap\/index.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0
+		},
+	"\/develop\/sass\/all.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/develop\/sass\/all.scss",
+		"outputAbbreviatedPath": "\/assets\/css\/all.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 1,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/develop\/sass\/partials\/_icons.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/develop\/sass\/partials\/_icons.scss",
+		"outputAbbreviatedPath": "\/assets\/css\/_icons.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 1,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/develop\/sass\/partials\/_media.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/develop\/sass\/partials\/_media.scss",
+		"outputAbbreviatedPath": "\/assets\/css\/_media.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 1,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/develop\/sass\/partials\/_typography.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/develop\/sass\/partials\/_typography.scss",
+		"outputAbbreviatedPath": "\/assets\/css\/_typography.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 1,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/develop\/sass\/partials\/desktop\/_desktop.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/develop\/sass\/partials\/desktop\/_desktop.scss",
+		"outputAbbreviatedPath": "\/assets\/css\/_desktop.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 1,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/develop\/sass\/partials\/desktop\/_icons.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/develop\/sass\/partials\/desktop\/_icons.scss",
+		"outputAbbreviatedPath": "\/assets\/css\/_icons.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 1,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/develop\/sass\/partials\/desktop\/forms\/_buttons.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/develop\/sass\/partials\/desktop\/forms\/_buttons.scss",
+		"outputAbbreviatedPath": "\/assets\/css\/_buttons.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 1,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/develop\/sass\/partials\/desktop\/forms\/_forms.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/develop\/sass\/partials\/desktop\/forms\/_forms.scss",
+		"outputAbbreviatedPath": "\/assets\/css\/_forms.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 1,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/develop\/sass\/partials\/desktop\/forms\/_generic.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/develop\/sass\/partials\/desktop\/forms\/_generic.scss",
+		"outputAbbreviatedPath": "\/assets\/css\/_generic.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 1,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/develop\/sass\/partials\/desktop\/forms\/_select-inputs.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/develop\/sass\/partials\/desktop\/forms\/_select-inputs.scss",
+		"outputAbbreviatedPath": "\/assets\/css\/_select-inputs.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 1,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/develop\/sass\/partials\/desktop\/forms\/_text-inputs.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/develop\/sass\/partials\/desktop\/forms\/_text-inputs.scss",
+		"outputAbbreviatedPath": "\/assets\/css\/_text-inputs.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 1,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/develop\/sass\/partials\/desktop\/structure\/_footer.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/develop\/sass\/partials\/desktop\/structure\/_footer.scss",
+		"outputAbbreviatedPath": "\/assets\/css\/_footer.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 1,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/develop\/sass\/partials\/desktop\/structure\/_header.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/develop\/sass\/partials\/desktop\/structure\/_header.scss",
+		"outputAbbreviatedPath": "\/assets\/css\/_header.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 1,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/develop\/sass\/partials\/desktop\/structure\/_layout.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/develop\/sass\/partials\/desktop\/structure\/_layout.scss",
+		"outputAbbreviatedPath": "\/assets\/css\/_layout.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 1,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/develop\/sass\/partials\/desktop\/structure\/_lists.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/develop\/sass\/partials\/desktop\/structure\/_lists.scss",
+		"outputAbbreviatedPath": "\/assets\/css\/_lists.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 1,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/develop\/sass\/partials\/desktop\/structure\/_nav.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/develop\/sass\/partials\/desktop\/structure\/_nav.scss",
+		"outputAbbreviatedPath": "\/assets\/css\/_nav.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 1,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/develop\/sass\/partials\/desktop\/structure\/_structure.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/develop\/sass\/partials\/desktop\/structure\/_structure.scss",
+		"outputAbbreviatedPath": "\/assets\/css\/_structure.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 1,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/develop\/sass\/partials\/desktop\/structure\/_tables.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/develop\/sass\/partials\/desktop\/structure\/_tables.scss",
+		"outputAbbreviatedPath": "\/assets\/css\/_tables.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 1,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/develop\/sass\/partials\/forms\/_buttons.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/develop\/sass\/partials\/forms\/_buttons.scss",
+		"outputAbbreviatedPath": "\/assets\/css\/_buttons.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 1,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/develop\/sass\/partials\/forms\/_forms.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/develop\/sass\/partials\/forms\/_forms.scss",
+		"outputAbbreviatedPath": "\/assets\/css\/_forms.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 1,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/develop\/sass\/partials\/forms\/_generic.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/develop\/sass\/partials\/forms\/_generic.scss",
+		"outputAbbreviatedPath": "\/assets\/css\/_generic.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 1,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/develop\/sass\/partials\/forms\/_select-inputs.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/develop\/sass\/partials\/forms\/_select-inputs.scss",
+		"outputAbbreviatedPath": "\/assets\/css\/_select-inputs.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 1,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/develop\/sass\/partials\/forms\/_text-inputs.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/develop\/sass\/partials\/forms\/_text-inputs.scss",
+		"outputAbbreviatedPath": "\/assets\/css\/_text-inputs.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 1,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/develop\/sass\/partials\/structure\/_footer.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/develop\/sass\/partials\/structure\/_footer.scss",
+		"outputAbbreviatedPath": "\/assets\/css\/_footer.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 1,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/develop\/sass\/partials\/structure\/_header.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/develop\/sass\/partials\/structure\/_header.scss",
+		"outputAbbreviatedPath": "\/assets\/css\/_header.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 1,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/develop\/sass\/partials\/structure\/_layout.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/develop\/sass\/partials\/structure\/_layout.scss",
+		"outputAbbreviatedPath": "\/assets\/css\/_layout.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 1,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/develop\/sass\/partials\/structure\/_lists.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/develop\/sass\/partials\/structure\/_lists.scss",
+		"outputAbbreviatedPath": "\/assets\/css\/_lists.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 1,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/develop\/sass\/partials\/structure\/_nav.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/develop\/sass\/partials\/structure\/_nav.scss",
+		"outputAbbreviatedPath": "\/assets\/css\/_nav.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 1,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/develop\/sass\/partials\/structure\/_structure.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/develop\/sass\/partials\/structure\/_structure.scss",
+		"outputAbbreviatedPath": "\/assets\/css\/_structure.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 1,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/develop\/sass\/partials\/structure\/_tables.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/develop\/sass\/partials\/structure\/_tables.scss",
+		"outputAbbreviatedPath": "\/assets\/css\/_tables.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 1,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/develop\/sass\/partials\/variables\/_colors.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/develop\/sass\/partials\/variables\/_colors.scss",
+		"outputAbbreviatedPath": "\/assets\/css\/_colors.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 1,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/develop\/sass\/partials\/variables\/_helpers.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/develop\/sass\/partials\/variables\/_helpers.scss",
+		"outputAbbreviatedPath": "\/assets\/css\/_helpers.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 1,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/develop\/sass\/partials\/variables\/_sizes.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/develop\/sass\/partials\/variables\/_sizes.scss",
+		"outputAbbreviatedPath": "\/assets\/css\/_sizes.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 1,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/develop\/sass\/partials\/variables\/_type.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/develop\/sass\/partials\/variables\/_type.scss",
+		"outputAbbreviatedPath": "\/assets\/css\/_type.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 1,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/develop\/sass\/partials\/variables\/_variables.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/develop\/sass\/partials\/variables\/_variables.scss",
+		"outputAbbreviatedPath": "\/assets\/css\/_variables.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 1,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/index.html": {
+		"fileType": 8192,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/phy_comp\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/phy_comp\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
 		}
 	},
 "hooks": [
@@ -3965,17 +4639,17 @@
 	"jadeAutoOutputPathEnabled": 1,
 	"jadeAutoOutputPathFilenamePattern": "*.html",
 	"jadeAutoOutputPathRelativePath": "",
-	"jadeAutoOutputPathReplace1": "",
+	"jadeAutoOutputPathReplace1": "develop\/jade",
 	"jadeAutoOutputPathReplace2": "",
-	"jadeAutoOutputPathStyle": 0,
+	"jadeAutoOutputPathStyle": 3,
 	"jadeCompileDebug": 1,
 	"jadeOutputStyle": 0,
 	"javascriptAutoOutputPathEnabled": 1,
-	"javascriptAutoOutputPathFilenamePattern": "*-min.js",
+	"javascriptAutoOutputPathFilenamePattern": "*.js",
 	"javascriptAutoOutputPathRelativePath": "\/min",
-	"javascriptAutoOutputPathReplace1": "",
-	"javascriptAutoOutputPathReplace2": "",
-	"javascriptAutoOutputPathStyle": 2,
+	"javascriptAutoOutputPathReplace1": "develop\/js",
+	"javascriptAutoOutputPathReplace2": "assets\/js",
+	"javascriptAutoOutputPathStyle": 3,
 	"javascriptCreateSourceMap": 1,
 	"javascriptOutputStyle": 1,
 	"javascriptSyntaxCheckerStyle": 1,
@@ -4379,15 +5053,15 @@
 	"sassAutoOutputPathEnabled": 1,
 	"sassAutoOutputPathFilenamePattern": "*.css",
 	"sassAutoOutputPathRelativePath": "..\/css",
-	"sassAutoOutputPathReplace1": "sass",
-	"sassAutoOutputPathReplace2": "css",
-	"sassAutoOutputPathStyle": 2,
+	"sassAutoOutputPathReplace1": "develop\/sass",
+	"sassAutoOutputPathReplace2": "assets\/css",
+	"sassAutoOutputPathStyle": 3,
 	"sassCreateSourceMap": 0,
 	"sassDebugStyle": 0,
 	"sassDecimalPrecision": 10,
 	"sassOutputStyle": 0,
 	"sassUseLibsass": 0,
-	"shouldRunAutoprefixer": 0,
+	"shouldRunAutoprefixer": 1,
 	"shouldRunBless": 0,
 	"skippedItemsString": ".svn, .git, .hg, log, _logs, _cache, cache, logs, node_modules",
 	"slimAutoOutputPathEnabled": 1,

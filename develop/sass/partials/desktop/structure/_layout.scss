@@ -1,0 +1,45 @@
+body {
+	
+}
+
+article {
+	
+}
+
+section {
+	
+}
+
+figure {
+	
+}
+
+aside {
+  float: right;
+  width: $nav-width;
+  display: block;
+}
+
+.container {
+  width: 90vw;
+  clear: both;
+}
+
+.content {
+  padding: 0;
+  width: calc(100% - #{$nav-width} - #{$nav-width} - 50px);
+	float: left;
+}
+
+
+pre {
+	padding: 2em 3em;
+	width: 80%;
+	margin: 2em auto;
+  overflow-x: scroll;
+	code {
+    width: auto;
+		display: block;
+		background-color: transparent;
+	}
+}

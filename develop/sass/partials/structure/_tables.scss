@@ -1,0 +1,38 @@
+table {
+	caption {
+		
+	}
+	
+	thead {
+		tr {
+			th {
+
+			}
+		}
+	}
+	
+	tbody {
+		tr {
+			td {
+				
+			}
+		}
+	}
+	
+	tfoot {
+		
+	}
+	
+}
+
+.table-wrapper {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justift-content: space-between;
+  align-items: stretch;
+  align-content: space-between;
+  .cell {
+    flex-basis: 143px;
+  }
+}

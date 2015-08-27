@@ -1,0 +1,15 @@
+extends _layout.jade
+block content
+  block parent
+    - var currentParent = 'photo';
+    - var inParent = false;
+  .table-wrapper
+    - var photoProjects = projects.filter(function(a) { return a.parent === currentParent;});
+    each proj in photoProjects
+      .cell
+        if inParent
+          a(href= proj.key + '/')
+            img(src= round + proj.key + '/' + proj.key + '.jpg', alt= proj.key)
+        else
+          a(href= '/' + proj.parent + '/')
+            img(src= round + proj.key + '/' + proj.key + '.jpg', alt= proj.key)

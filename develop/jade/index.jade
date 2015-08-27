@@ -1,0 +1,7 @@
+extends templates/_layout.jade
+block content
+  .table-wrapper
+    each proj in projects
+      .cell
+        a(href= proj.parent + '/')
+          img(src= round + proj.key + '/' + proj.key + '.jpg', alt= proj.key)

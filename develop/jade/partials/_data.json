@@ -103,3 +103,112 @@ var navItems = [
     'label' : 'video'
   }
   ];
+
+var projImgs = {
+  'vacant' : [
+    {
+     'img' : 'Vacant-2.jpg'
+    },
+    {
+     'img' : 'Vacant-3.jpg'
+    },
+    {
+     'img' : 'Vacant-5.jpg'
+    },
+    {
+    },
+    {
+     'img' : 'Vacant-8.jpg'
+    },
+    {
+     'img' : 'Vacant-9.jpg'
+    },
+    {
+     'img' : 'Vacant-10.jpg'
+    },
+    {
+     'img' : 'Vacant-11.jpg'
+    },
+    {
+     'img' : 'Vacant-12.jpg'
+    },
+    {
+     'img' : 'Vacant-13.jpg'
+    },
+    {
+     'img' : 'Vacant-14.jpg'
+    },
+    {
+     'img' : 'Vacant-15.jpg'
+    },
+    {
+     'img' : 'Vacant-16.jpg'
+    },
+    {
+     'img' : 'Vacant-17.jpg'
+    },
+    {
+     'img' : 'Vacant-18.jpg'
+    },
+    {
+     'img' : 'Vacant-19.jpg'
+    },
+    {
+     'img' : 'Vacant-20.jpg'
+    },
+    {
+     'img' : 'Vacant-21.jpg'
+    },
+    {
+     'img' : 'Vacant-22.jpg'
+    },
+    {
+     'img' : 'Vacant-23.jpg'
+    },
+    {
+     'img' : 'Vacant-24.jpg'
+    },
+    {
+     'img' : 'Vacant-25.jpg'
+    },
+    {
+     'img' : 'Vacant-26.jpg'
+    },
+    {
+     'img' : 'Vacant-27.jpg'
+    },
+    {
+     'img' : 'Vacant-28.jpg'
+    },
+    {
+     'img' : 'Vacant-29.jpg'
+    },
+    {
+     'img' : 'Vacant-30.jpg'
+    },
+    {
+     'img' : 'Vacant-31.jpg'
+    },
+    {
+     'img' : 'Vacant-32.jpg'
+    },
+    {
+     'img' : 'Vacant-36.jpg'
+    },
+    {
+     'img' : 'Vacant-37.jpg'
+    },
+    {
+     'img' : 'Vacant-38.jpg'
+    },
+    {
+     'img' : 'Vacant-39.jpg'
+    },
+    {
+     'img' : 'Vacant-40.jpg'
+    },
+    {
+     'img' : 'Vacant-41.jpg'
+    }
+  ]
+};

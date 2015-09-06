@@ -133,6 +133,9 @@ mark {
 small {
   font-size: 0.6em; }
 
+strong {
+  font-weight: 800; }
+
 p {
   margin-bottom: 1em; }
 

@@ -10,15 +10,24 @@ block page-specific-scripts
   script(type='text/javascript', src='/assets/lib/fancybox/helpers/jquery.fancybox-buttons.js?v=1.0.5')
   script(type='text/javascript', src='/assets/lib/fancybox/helpers/jquery.fancybox-thumbs.js?v=1.0.7')
   script(type='text/javascript', src='/assets/lib/fancybox/helpers/jquery.fancybox-media.js?v=1.0.6')
-   script(type='text/javascript', src='/assets/js/gallery.js')
+  script(type='text/javascript', src='/assets/js/gallery.js')
 
 block content
   block currentProject
     - var currentProject = 'vacant';
+    - var currentParent = 'photo'
+    - var currentParentName = 'photography';
+    - var projTitle = currentProject;
   h1
-    a(href='/photo/') photography <
-    = currentProject
+    a(href='/' + currentParent + '/') 
+      = currentParentName
+      = ' <' 
+    = ' ' + projTitle
   section
+    block beforeGallery
+  section.table-wrapper.gallery
     each item in projImgs[currentProject]
-      a.fancybox(href=full + currentProject+ '/' + item.img, rel='gallery')
+      a.cell.fancy(href=full + currentProject+ '/' + item.img, rel='gallery')
         img(src=thumb + currentProject + '/' + item.img)
+  section
+    block afterGallery

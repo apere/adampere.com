@@ -23,6 +23,7 @@ aside {
   width: 100%;
   vertical-align: top;
   display: none;
+  margin-top: 1rem;
 }
 
 .container {
@@ -30,10 +31,9 @@ aside {
   max-width: 960px;
   background: $main-background-color;
   position: relative;
-  margin: 7vh auto;
-  padding-top: $base-padding/2;
-  min-height: calc(86vh - 110px);
-  padding-bottom: 110px;
+  margin: 8vh auto;
+  min-height: 85vh;
+  padding-bottom: 5vh;
 }
 
 aside, .content {
@@ -43,6 +43,11 @@ aside, .content {
 .content {
   padding: 0;
   width: 100%;
+  margin-top: 1rem;
+  
+  h1 {
+    margin-bottom: 1em;
+  }
 }
 
 h1, h2, h3, h4, h5, h6, p, section {

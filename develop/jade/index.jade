@@ -1,7 +1,11 @@
 extends templates/_layout.jade
 block content
+  h1.right 
+    | [ adam m pere ]
   .table-wrapper
     each proj in projects
       .cell
-        a(href= proj.parent + '/')
+        a(href= proj.parent + '/' + proj.key)
           img(src= round + proj.key + '/' + proj.key + '.jpg', alt= proj.key)
+        .proj-name
+            = proj.name

@@ -178,3 +178,62 @@ pre {
 }
 
 // *** End Block Text Options ***
+
+.exp-title {
+  font-weight: $bold;
+  font-size: $medium-font-size;
+  line-height: $medium-font-size + .1em;
+}
+
+.exp-position {
+  font-weight: $bold; 
+}
+
+.exp-desc {
+  margin-top: .25em; 
+  
+  dl {
+    margin-top: .75em;
+    dt {
+      margin-bottom: .5em;
+      font-weight: $bold; 
+    }
+    dd {
+      margin-top: .75em; 
+    }
+  }
+  
+}
+
+.experience-item {
+  margin-bottom: 1.25em;
+}
+
+.exp-date, .edu-date {
+  font-size: $medium-font-size; 
+  margin-left: .05em;
+}
+
+.exp-position, .exp-date {
+  display: inline-block;
+}
+
+.edu-item {
+  margin-bottom: 1em;
+}
+
+.edu-degree {
+  font-weight: $bold; 
+}
+
+.edu-degree, .edu-date {
+  display: inline-block; 
+}
+
+.exp-extra {
+  margin-top: .5em;
+}
+
+.right {
+  text-align: right;
+}

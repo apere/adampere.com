@@ -15,9 +15,15 @@ figure {
 }
 
 aside {
-  float: right;
   width: $nav-width;
-  display: block;
+  display: inline-block;
+  position: relative;
+  &:after{
+    content: "\00a9  2016";
+    position: absolute;
+    bottom: 0;
+    right: 45px;
+  }
 }
 
 .container {
@@ -27,7 +33,7 @@ aside {
 
 .content {
   padding: 0;
-  width: calc(100% - #{$nav-width} - #{$nav-width} - 50px);
+  width: calc(100% - #{$nav-width});
 	float: left;
 }
 
@@ -42,4 +48,8 @@ pre {
 		display: block;
 		background-color: transparent;
 	}
+}
+
+iframe {
+  min-height: 400px;
 }

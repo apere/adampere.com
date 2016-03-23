@@ -48,7 +48,7 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, menu,
 
 input[type='radio'] + label, a {
   -webkit-transition: all 250ms ease-in-out;
-          transition: all 250ms ease-in-out; }
+  transition: all 250ms ease-in-out; }
 
 .clear {
   width: 100%;
@@ -57,11 +57,31 @@ input[type='radio'] + label, a {
 .pdf {
   height: 1em;
   display: inline-block;
-  margin-left: .5em; }
+  margin-left: .5em;
+  vertical-align: text-top; }
+
+a:hover img {
+  opacity: .4; }
+
+.gallery a img {
+  width: calc(100% - 10px);
+  height: auto;
+  vertical-align: middle; }
 
 img {
   max-width: 100%;
-  max-height: 100vh; }
+  max-height: 100vh;
+  -webkit-transition: all 250ms ease-in-out;
+  transition: all 250ms ease-in-out; }
+
+iframe {
+  width: 100%;
+  min-height: 250px; }
+
+#Insert_logo {
+  width: 50%;
+  display: block;
+  margin: 0 auto; }
 
 input[type='radio'] {
   display: none; }
@@ -81,7 +101,7 @@ input[type='radio'] {
 
 html, body {
   font-family: "Courier New", Courier, monospace;
-  font-size: 16px;
+  font-size: 13px;
   line-height: 1.25em; }
 
 svg {
@@ -91,7 +111,7 @@ h1, h2, h3 {
   font-weight: 800; }
 
 h1, h2, h3, h4, h5, h6 {
-  margin-bottom: 1em; }
+  margin-bottom: 1rem; }
 
 h1 {
   font-size: 2em;
@@ -162,6 +182,49 @@ pre {
     display: block;
     background-color: transparent; }
 
+.exp-title {
+  font-weight: 800;
+  font-size: 0.85em;
+  line-height: 0.95em; }
+
+.exp-position {
+  font-weight: 800; }
+
+.exp-desc {
+  margin-top: .25em; }
+  .exp-desc dl {
+    margin-top: .75em; }
+    .exp-desc dl dt {
+      margin-bottom: .5em;
+      font-weight: 800; }
+    .exp-desc dl dd {
+      margin-top: .75em; }
+
+.experience-item {
+  margin-bottom: 1.25em; }
+
+.exp-date, .edu-date {
+  font-size: 0.85em;
+  margin-left: .05em; }
+
+.exp-position, .exp-date {
+  display: inline-block; }
+
+.edu-item {
+  margin-bottom: 1em; }
+
+.edu-degree {
+  font-weight: 800; }
+
+.edu-degree, .edu-date {
+  display: inline-block; }
+
+.exp-extra {
+  margin-top: .5em; }
+
+.right {
+  text-align: right; }
+
 body {
   background-image: url('/assets/img/bg/banan.jpg?1440627388');
   background-repeat: repeat;
@@ -169,29 +232,32 @@ body {
   padding: 0; }
 
 section {
-  margin-bottom: 2em; }
+  margin-bottom: 2rem; }
 
 aside {
   width: 100%;
   vertical-align: top;
-  display: none; }
+  display: none;
+  margin-top: 1rem; }
 
 .container {
   width: 90%;
   max-width: 960px;
   background: #FFFFFF;
   position: relative;
-  margin: 7vh auto;
-  padding-top: 0.5em;
-  min-height: calc(86vh - 110px);
-  padding-bottom: 110px; }
+  margin: 8vh auto;
+  min-height: 85vh;
+  padding-bottom: 5vh; }
 
 aside, .content {
   padding-top: 0em; }
 
 .content {
   padding: 0;
-  width: 100%; }
+  width: 100%;
+  margin-top: 1rem; }
+  .content h1 {
+    margin-bottom: 1em; }
 
 h1, h2, h3, h4, h5, h6, p, section {
   margin-top: 0;
@@ -235,9 +301,27 @@ ol, ul {
       -ms-flex-line-pack: justify;
           align-content: space-between; }
   .table-wrapper .cell {
-    -webkit-flex-basis: 143px;
-        -ms-flex-preferred-size: 143px;
-            flex-basis: 143px; }
+    -webkit-flex-basis: calc(50% - 10px);
+        -ms-flex-preferred-size: calc(50% - 10px);
+            flex-basis: calc(50% - 10px);
+    position: relative; }
+    .table-wrapper .cell .proj-name {
+      font-weight: 800;
+      position: absolute;
+      right: 20%;
+      top: calc(50% - 2em);
+      pointer-events: none;
+      opacity: 0;
+      -webkit-transition: all 500ms ease-in-out;
+      transition: all 500ms ease-in-out; }
+    .table-wrapper .cell:hover .proj-name {
+      opacity: 100; }
+  .table-wrapper.gallery .cell {
+    -webkit-flex-basis: 100%;
+        -ms-flex-preferred-size: 100%;
+            flex-basis: 100%;
+    text-align: center;
+    margin-bottom: 10px; }
 
 header {
   width: calc(100vw - 4em);
@@ -249,14 +333,24 @@ header {
 nav {
   display: block;
   width: 100%;
-  margin-bottom: 2em; }
+  margin-bottom: 2em;
+  margin-top: 1em;
+  padding-top: .8rem; }
   nav ul {
     margin: 0;
     margin-bottom: 0.5em; }
     nav ul li {
       display: inline-block;
       width: auto;
-      margin-bottom: 0; }
+      margin-bottom: 0;
+      position: relative; }
+      nav ul li:first-child a {
+        font-weight: 700; }
+      nav ul li:after {
+        content: ".";
+        position: absolute;
+        right: -2px;
+        top: 0; }
       nav ul li a, nav ul li a:visited {
         padding: 0px 5px 5px 15px;
         display: block;
@@ -272,15 +366,20 @@ footer {
   footer p {
     margin-bottom: 0; }
   footer img {
-    width: 50px;
-    display: inline-block;
-    vertical-align: bottom; }
+    width: 40px;
+    display: block;
+    margin-bottom: .25em; }
 
 @media only screen and (min-width: 800px) {
   aside {
-    float: right;
     width: 160px;
-    display: block; }
+    display: inline-block;
+    position: relative; }
+    aside:after {
+      content: "\00a9  2016";
+      position: absolute;
+      bottom: 0;
+      right: 45px; }
 
   .container {
     width: 90vw;
@@ -288,7 +387,7 @@ footer {
 
   .content {
     padding: 0;
-    width: calc(100% - 160px - 160px - 50px);
+    width: calc(100% - 160px);
     float: left; }
 
   pre {
@@ -301,11 +400,24 @@ footer {
       display: block;
       background-color: transparent; }
 
+  iframe {
+    min-height: 400px; }
+
+  .table-wrapper .cell {
+    -webkit-flex-basis: 33%;
+        -ms-flex-preferred-size: 33%;
+            flex-basis: 33%; }
+  .table-wrapper.gallery .cell {
+    -webkit-flex-basis: 50%;
+        -ms-flex-preferred-size: 50%;
+            flex-basis: 50%; }
+
   nav {
     display: inline-block;
     width: 160px;
     float: left;
-    background: #FFFFFF; }
+    background: #FFFFFF;
+    padding-top: .5rem; }
     nav ul {
       margin: 0.5em 0;
       margin-top: 0; }
@@ -313,6 +425,10 @@ footer {
         width: 160px; }
         nav ul li:first-child a, nav ul li:first-child a:visited {
           padding-top: 0; }
+        nav ul li:nth-child(3) {
+          margin-bottom: 3em; }
+        nav ul li:after {
+          content: ""; }
         nav ul li a, nav ul li a:visited {
           padding: 5px 5px 5px 15px;
           display: block;

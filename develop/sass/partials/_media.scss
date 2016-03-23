@@ -1,8 +1,23 @@
 // This is where you would put any styles for media (images mostly)
 
+a {
+  &:hover {
+    img {
+      opacity: .4; 
+    }
+  }
+}
+
+.gallery a img {
+  width: calc(100% - 10px);
+  height: auto;
+  vertical-align: middle;
+}
+
 img {
 	max-width: 100%;
 	max-height: 100vh;
+  transition: all 250ms ease-in-out;
 }
 
 embed {
@@ -10,5 +25,12 @@ embed {
 }
 
 iframe {
-	
+	width: 100%;
+  min-height:250px; 
+}
+
+#Insert_logo {
+  width: 50%;
+  display: block;
+  margin:0 auto;
 }

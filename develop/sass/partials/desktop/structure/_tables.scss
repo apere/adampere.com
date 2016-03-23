@@ -26,3 +26,17 @@ table {
 	}
 	
 }
+
+.table-wrapper {  
+  
+  .cell {
+    flex-basis: 33%;
+  }
+  
+  &.gallery {
+    
+    .cell {
+      flex-basis: 50%; 
+    }
+  }
+}

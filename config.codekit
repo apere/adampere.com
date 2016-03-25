@@ -96,12 +96,12 @@
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 170075,
+		"initialSize": 70632,
 		"inputAbbreviatedPath": "\/assets\/img\/bg\/banan.jpg",
 		"outputAbbreviatedPath": "\/assets\/img\/bg\/banan.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/assets\/img\/bg\/door2.jpg": {
 		"fileType": 16384,

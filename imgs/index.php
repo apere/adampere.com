@@ -20,16 +20,6 @@
       <nav class="sidebar1">
         <ul>
           <li><a href="/">adampere.com</a></li>
-          <li><a href="/about/">about</a></li>
-          <li><a href="/contact/">contact</a></li>
-          <li><a href="/projection/">projection</a></li>
-          <li><a href="/video/">video</a></li>
-          <li><a href="/photo/">photography</a></li>
-          <li><a href="/digi/">digital</a></li>
-          <li><a href="/phys/">physical computing</a></li>
-          <li><a href="/3d/">3d modeling</a></li>
-          <li><a href="/graph/">graphic design</a></li>
-          <li><a href="/book/">book</a></li>
         </ul>
       </nav>
       <article class="content">
@@ -42,7 +32,7 @@
             a collection of images hosted by adam, for adam
           </li>
           <li>
-            adam makes no claim that these images were made by adam (or belong to adam)
+            adam makes no claim that these images were made by adam (or belong to adam)&hellip; but let's be real&hellip; most of them are and do
           </li>
           <li>
             they're not for you (if you are not adam)
@@ -63,7 +53,7 @@
             adam will do his best not to have any information that is too private
           </li>
           <li>
-            but if adam does, please let him know
+            but if adam does, please let adam know
           </li>
           <li>
             because of the nature of this page, there is no real optimization happening

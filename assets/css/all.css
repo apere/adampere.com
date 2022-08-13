@@ -48,7 +48,7 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, menu,
 
 input[type='radio'] + label, a {
   -webkit-transition: all 250ms ease-in-out;
-  transition: all 250ms ease-in-out; }
+  transition: all 0ms ease-in-out; }
 
 .clear {
   width: 100%;

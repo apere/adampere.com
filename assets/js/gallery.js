@@ -1,1 +1,0 @@
-$(document).ready(function(){$(".fancy").fancybox({speedIn:600,speedOut:200,overlayShow:!1,cyclic:!0})});
